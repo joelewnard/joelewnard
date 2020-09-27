@@ -1,6 +1,6 @@
 # Lewnard group at University of California, Berkeley
 
-You can use the [editor on GitHub](https://github.com/joelewnard/joelewnard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We study the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology] (https://ccb.berkeley.edu/) at UC Berkeley.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
