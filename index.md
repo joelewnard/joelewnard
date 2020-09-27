@@ -136,7 +136,7 @@ _**Published**_
 
 - Kunkel A, **Lewnard JA**, Pitzer VE, Cohen T. Antimicrobial resistance risks of cholera prophylaxis for United Nations peacekeepers. [_Antimicrob Agents Chemother_](https://aac.asm.org/content/early/2017/05/16/AAC.00026-17.abstract) 2017.
 
-- Kürüm E, Warren JL, Schuck-Paim C, Lustig R, **Lewnard JA**, Fernandes RM, Fuentes R, Bruhn CAW, Taylor RJ, Simonsen L, Weinberger DM. Bayesian model averaging with change points to assess the impact of vaccination and other public health interventions. [_Epidemiology_](http://journals.lww.com/epidem/Abstract/publishahead/Bayesian_model_averaging_with_change_points_to.98818.aspx) 2017
+- Kürüm E, Warren JL, Schuck-Paim C, Lustig R, **Lewnard JA**, Fernandes RM, Fuentes R, Bruhn CAW, Taylor RJ, Simonsen L, Weinberger DM. Bayesian model averaging with change points to assess the impact of vaccination and other public health interventions. [_Epidemiology_](http://journals.lww.com/epidem/Abstract/publishahead/Bayesian_model_averaging_with_change_points_to.98818.aspx) 2017.
   - Awarded [Kenneth Rothman Prize](https://journals.lww.com/epidem/Fulltext/2018/07000/Esra_K_r_m,_Winner_of_the_2018_Kenneth_Rothman.1.aspx) for the best paper published in _Epidemiology_ in 2017.
 
 ### 2016
