@@ -6,35 +6,35 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 
 ## People ##
 
-Joe Lewnard (PI)
+- Joe Lewnard (PI)
 
-Kristin Andrejko
-_Epidemiology PhD Student_
+- Kristin Andrejko
+  - _Epidemiology PhD Student_
 
-Graham Northrup
-_Computational biology PhD Student_
-Co-supervised with [Mike Boots](https://bootslab.org/)
+- Graham Northrup
+  - _Computational biology PhD Student_
+  - Co-supervised with [Mike Boots](https://bootslab.org/)
 
-Tess Baker
-_Epidemiology & Biostats MPH student_
+- Tess Baker
+  - _Epidemiology & Biostats MPH student_
 
-Nick Murdock
-_Epidemiology & Biostats MPH student_
+- Nick Murdock
+  - _Epidemiology & Biostats MPH student_
 
-Tyler Chervo
-_Infectious Diseases & Vaccinology MPH student_
+- Tyler Chervo
+  - _Infectious Diseases & Vaccinology MPH student_
 
 ### Alumni
 
-Lauren Linde
-_Epidemiology & Biostats MPH student (2020)_
+- Lauren Linde
+  - _Epidemiology & Biostats MPH student (2020)_
 
-Buddhika Ratnasiri
-_Undergraduate Honors student (2020)_ 
+- Buddhika Ratnasiri
+  - _Undergraduate Honors student (2020)_ 
 
 ## Recruitment ##
 
-Multiple fundned positions are available for PhD students and postdocs. Please contact jlewnard@berkeley.edu with your CV and a description of your background and research interests.
+Multiple funded positions are available for PhD students and postdocs. Please contact jlewnard@berkeley.edu with your CV and a description of your background and research interests.
 
 ## Publications
 
