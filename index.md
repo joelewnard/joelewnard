@@ -4,6 +4,10 @@ We study the natural history, transmission dynamics, and control of infectious d
 
 Our work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), rotavirus, and group A _Streptococcus_. We are also interested in statistical methods for the design and analysis of vaccine efficacy and effectiveness studies. We have redirected substantial effort to COVID-19 in the ongoing pandemic.
 
+## Recruitment ##
+
+Multiple fundned positions are available for PhD students and postdocs. Please contact jlewnard@berkeley.edu with your CV and a description of your background and research interests.
+
 ## Publications
 
 Work by current and former members are indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
@@ -83,43 +87,28 @@ _**Published**_
 
 ### 2017
 
-- Phelps MD, Azman AS, \textbf{Lewnard JA}, Antill\'{o}n M, Simonsen L, Andreasen V, Jensen PKM, Pitzer VE. The importance of thinking beyond the water supply in cholera epidemics: a historical urban case study. \textit{PLoS Negl Trop Dis} 2017; \textbf{11}:e0006103. \href{http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006103}{doi.org/10.1371/journal.pntd.0006103}.\medskip
+- Phelps MD, Azman AS, **Lewnard JA**, Antillón M, Simonsen L, Andreasen V, Jensen PKM, Pitzer VE. The importance of thinking beyond the water supply in cholera epidemics: a historical urban case study. [_PLoS Negl Trop Dis_](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006103) 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Givon-Lavi N, Weinberger DM, Lipsitch M, Dagan R. Pan-serotype reduction in progression of \textit{Streptococcus pneumoniae} to otitis media after rollout of pneumococcal conjugate vaccines. \textit{Clin Infect Dis} 2017; \textbf{65}:1853--61. \href{https://doi.org/10.1093/cid/cix673}{doi:10.1093/cid/cix673}.\medskip
+- **Lewnard JA**, Givon-Lavi N, Weinberger DM, Lipsitch M, Dagan R. Pan-serotype reduction in progression of _Streptococcus pneumoniae_ to otitis media after rollout of pneumococcal conjugate vaccines. [_Clin Infect Dis_](https://doi.org/10.1093/cid/cix673) 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Lopman BA, Parashar UD, Bar-Zeev N, Samuel P, Guerrero ML, Ruiz-Palacios G, Kang G, Pitzer VE. Naturally-acquired immunity against rotavirus infection and gastroenteritis in children: paired re-analyses of birth-cohort studies. \textit{J Infect Dis} 2017; \textbf{216}:317--26. \href{https://doi.org/10.1093/infdis/jix310}{doi:10.1093/infdis/jix310}.\medskip
+- **Lewnard JA**, Lopman BA, Parashar UD, Bar-Zeev N, Samuel P, Guerrero ML, Ruiz-Palacios G, Kang G, Pitzer VE. Naturally-acquired immunity against rotavirus infection and gastroenteritis in children: paired re-analyses of birth-cohort studies. [_J Infect Dis_](https://doi.org/10.1093/infdis/jix310) 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} Kunkel A, \textbf{Lewnard JA}, Pitzer VE, Cohen T. Antimicrobial resistance risks of cholera prophylaxis for United Nations peacekeepers. \textit{Antimicrob Agents Chemother} 2017; \textbf{61}:e00026-17. \href{http://aac.asm.org/content/early/2017/05/16/AAC.00026-17.abstract}{doi:10.1128/AAC.00026-17}.\medskip
+- Kunkel A, **Lewnard JA**, Pitzer VE, Cohen T. Antimicrobial resistance risks of cholera prophylaxis for United Nations peacekeepers. [_Antimicrob Agents Chemother_](https://aac.asm.org/content/early/2017/05/16/AAC.00026-17.abstract) 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} K\"{u}r\"{u}m E, Warren JL, Schuck-Paim C, Lustig R, \textbf{Lewnard JA}, Fernandes RM, Fuentes R, Bruhn CAW, Taylor RJ, Simonsen L, Weinberger DM. Bayesian model averaging with change points to assess the impact of vaccination and other public health interventions. \textit{Epidemiology} 2017;\textbf{28}:889--97. \href{http://journals.lww.com/epidem/Abstract/publishahead/Bayesian_model_averaging_with_change_points_to.98818.aspx}{doi:10.1097/EDE.0000000000000719}.
-\begin{itemize}
-\small
-\item Awarded Kenneth Rothman Prize for the best paper published in \textit{Epidemiology} in 2017 (\href{https://journals.lww.com/epidem/Fulltext/2018/07000/Esra_K_r_m,_Winner_of_the_2018_Kenneth_Rothman.1.aspx}{link}).
-\end{itemize}\medskip
+- Kürüm E, Warren JL, Schuck-Paim C, Lustig R, **Lewnard JA**, Fernandes RM, Fuentes R, Bruhn CAW, Taylor RJ, Simonsen L, Weinberger DM. Bayesian model averaging with change points to assess the impact of vaccination and other public health interventions. [_Epidemiology_](http://journals.lww.com/epidem/Abstract/publishahead/Bayesian_model_averaging_with_change_points_to.98818.aspx) 2017
+  - Awarded [Kenneth Rothman Prize](https://journals.lww.com/epidem/Fulltext/2018/07000/Esra_K_r_m,_Winner_of_the_2018_Kenneth_Rothman.1.aspx) for the best paper published in _Epidemiology_ in 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} Anwar MY, \textbf{Lewnard JA}, Parikh S, Pitzer VE. Time series analysis of malaria in Afghanistan: using ARIMA models to predict future trends in incidence. \textit{Malaria J} 2016; \textbf{15}:566. \href{https://malariajournal.biomedcentral.com/articles/10.1186/s12936-016-1602-1}{doi:10.1186/s12936-016-1602-1}.\medskip
+### 2016
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Townsend JP. Climatic and evolutionary drivers of phase shifts in the plague epidemics of colonial India. \textit{Proc Natl Acad Sci U S A} 2016; \textbf{113}:14601--8. \href{http://www.pnas.org/content/early/2016/10/18/1604985113.abstract}{doi:10.1073/pnas.1604985113}.\medskip
+- Anwar MY, **Lewnard JA**, Parikh S, Pitzer VE. Time series analysis of malaria in Afghanistan: using ARIMA models to predict future trends in incidence. [_Malaria J_](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-016-1602-1) 2016.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} Pham TTH, Apparicio P, Landry S, \textbf{Lewnard JA}. Disentangling the effects of urban form and socio-demographic context on street tree cover: A multi-level analysis from Montreal. \textit{Landscape Urban Plan} 2017; \textbf{157}:422--33. \href{http://www.sciencedirect.com/science/article/pii/S0169204616301797}{doi:10.1016/j.landurbplan.2016.09.001}.\medskip
+- **Lewnard JA**, Townsend JP. Climatic and evolutionary drivers of phase shifts in the plague epidemics of colonial India. [_Proc Natl Acad Sci U S A_](http://www.pnas.org/content/early/2016/10/18/1604985113.abstract) 2016.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Huppert A, Givon-Lavi N, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Density, serotype diversity, and fitness of \textit{Streptococcus pneumoniae} in upper respiratory co-colonization with nontypeable \textit{Haemophilus influenzae}. \textit{J Infect Dis} 2016; \textbf{214}:1411--20.  \href{http://jid.oxfordjournals.org/content/early/2016/08/17/infdis.jiw381.abstract}{doi:10.1093/infdis/jiw381}. \medskip
+- Pham TTH, Apparicio P, Landry S, **Lewnard JA**. Disentangling the effects of urban form and socio-demographic context on street tree cover: A multi-level analysis from Montreal. [_Landscape Urban Plan_](http://www.sciencedirect.com/science/article/pii/S0169204616301797) 2017.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Gonsalves G, Ko AI. Low risk of international Zika virus spread due to the 2016 Olympics in Brazil. \textit{Ann Intern Med} 2016; \textbf{165}:286--7. \href{http://annals.org/article.aspx?articleid=2538663}{doi:10.7326/M16-1628}.
-\begin{itemize}
-\small
-\item Coverage in \href{http://mobile.nytimes.com/reuters/2016/07/25/sports/25reuters-health-zika-spread-olympics.html?mwrsm=Facebook&referer=http://m.facebook.com/}{The New York Times}, \href{https://www.theguardian.com/world/2016/jul/25/zika-virus-risk-at-rio-olympics-negligible-says-yale-report}{The Guardian}, \href{http://www.latimes.com/science/sciencenow/la-sci-sn-olympics-zika-risk-20160722-snap-story.html}{The LA Times}, \href{http://time.com/4420009/why-massive-zika-spread-is-unlikely-at-the-olympics/?xid=fbshare}{Time}, \href{http://abcnews.go.com/Health/zika-virus-infection-risks-calculated-pregnant-women-olympic/story?id=40851295}{ABC News}, \href{http://www.cnbc.com/2016/07/25/yale-report-finds-low-risk-of-zika-spreading-around-world-due-to-rio-olympics.html}{CNBC}, other outlets (\href{https://www.altmetric.com/details/10040260/news?src=bookmarklet}{link})\medskip
-\end{itemize}
-\normalsize
+- **Lewnard JA}**, Huppert A, Givon-Lavi N, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Density, serotype diversity, and fitness of _Streptococcus pneumoniae_ in upper respiratory co-colonization with nontypeable _Haemophilus influenzae_. [_J Infect Dis_](http://jid.oxfordjournals.org/content/early/2016/08/17/infdis.jiw381.abstract) 2016.
+
+- **Lewnard JA**, Gonsalves G, Ko AI. Low risk of international Zika virus spread due to the 2016 Olympics in Brazil. [_Ann Intern Med_](http://annals.org/article.aspx?articleid=2538663) 2016.
 
 \addtocounter{pubs}{-1}
 \years{[\thepubs]} \textbf{Lewnard JA}, Antill\'{o}n M, Gonsalves G, Miller AC, Ko AI, Pitzer VE. Strategies to prevent cholera introduction during international personnel deployments: a computational modeling analysis based on the 2010 Haiti outbreak. \textit{PLoS Med} 2016; \textbf{13}:e1001947. \href{http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001947}{doi:10.1371/ journal.pmed.1001947}.
@@ -152,13 +141,3 @@ _**Published**_
 \years{[\thepubs]} \textbf{Lewnard JA}, Berrang-Ford L. Internet-based partner selection and risk for unprotected anal intercourse in sexual encounters among men who have sex with men: a meta-analysis of observational studies. \textit{Sex Transm Infect} 2014; \textbf{90}:290--6. \href{http://sti.bmj.com/content/90/4/290.short}{doi:10.1136/sextrans-2013-051332}.
 
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joelewnard/joelewnard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
