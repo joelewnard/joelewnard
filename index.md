@@ -147,7 +147,7 @@ _**Published**_
 
 - Pham TTH, Apparicio P, Landry S, **Lewnard JA**. Disentangling the effects of urban form and socio-demographic context on street tree cover: A multi-level analysis from Montreal. [_Landscape Urban Plan_](http://www.sciencedirect.com/science/article/pii/S0169204616301797) 2017.
 
-- **Lewnard JA}**, Huppert A, Givon-Lavi N, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Density, serotype diversity, and fitness of _Streptococcus pneumoniae_ in upper respiratory co-colonization with nontypeable _Haemophilus influenzae_. [_J Infect Dis_](http://jid.oxfordjournals.org/content/early/2016/08/17/infdis.jiw381.abstract) 2016.
+- **Lewnard JA**, Huppert A, Givon-Lavi N, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Density, serotype diversity, and fitness of _Streptococcus pneumoniae_ in upper respiratory co-colonization with nontypeable _Haemophilus influenzae_. [_J Infect Dis_](http://jid.oxfordjournals.org/content/early/2016/08/17/infdis.jiw381.abstract) 2016.
 
 - **Lewnard JA**, Gonsalves G, Ko AI. Low risk of international Zika virus spread due to the 2016 Olympics in Brazil. [_Ann Intern Med_](http://annals.org/article.aspx?articleid=2538663) 2016.
 
@@ -166,7 +166,7 @@ _**Published**_
   
 - Rivers C, Alexander K, Bellan S, Del Valle S, Drake JM, Eisenberg JN, Eubank S, Ferrari M, Halloran ME, Galvani AP, Lewis BL, **Lewnard JA**, Lofgren E, Macal M, Marathe M, Ndeffo Mbah ML, Meyers LA, Meza R, Park A, Porco T, Scarpino SV, Shaman J, Vespignani A, Yang W. Ebola: models do more than forecast. [_Nature_](https://doi.org/10.1038/515492a) 2014.
 
-- **Lewnard J**, Berrang-Ford L, Lwasa S, Bambaiha Namanya D, Patterson KA, Donnelly B, Kulkarni MA, Harper SL, Ogden NH, Carcamo CP, IHACC Research Team. Relative undernourishment and food insecurity associations with _Plasmodium falciparum_ among Batwa pygmies in Uganda: evidence from a cross-sectional survey. [_Am J Trop Med Hyg_](https://doi.org/10.4269/ajtmh.13-0422) 2014.
+- **Lewnard JA**, Berrang-Ford L, Lwasa S, Bambaiha Namanya D, Patterson KA, Donnelly B, Kulkarni MA, Harper SL, Ogden NH, Carcamo CP, IHACC Research Team. Relative undernourishment and food insecurity associations with _Plasmodium falciparum_ among Batwa pygmies in Uganda: evidence from a cross-sectional survey. [_Am J Trop Med Hyg_](https://doi.org/10.4269/ajtmh.13-0422) 2014.
 
 - **Lewnard JA**, Berrang-Ford L. Internet-based partner selection and risk for unprotected anal intercourse in sexual encounters among men who have sex with men: a meta-analysis of observational studies. [_Sex Transm Infect_](https://doi.org/10.1136/sextrans-2013-051332) 2014.
 
