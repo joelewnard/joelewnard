@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Lewnard group at University of California, Berkeley
 
 You can use the [editor on GitHub](https://github.com/joelewnard/joelewnard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
