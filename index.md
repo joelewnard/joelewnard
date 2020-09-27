@@ -1,4 +1,4 @@
-# Lewnard group at University of California, Berkeley
+# Lewnard group at the University of California, Berkeley
 
 We study the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology] (https://ccb.berkeley.edu/) at UC Berkeley.
 
@@ -12,35 +12,34 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 _**In press**_
 
-- **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from _medRxiv_:
-https://doi.org/10.1101/2020.03.01.20029850}.
+- **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.03.01.20029850).
 
-- Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. _Lancet Infect Dis_ 2020 (in press). Pre-print from _medRxiv_: https://doi.org/10.1101/2020.04.05.20036574.
+- Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. _Lancet Infect Dis_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.04.05.20036574).
 
 _**Published**_
 
-- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. _Science_ 2020;  https://doi.org/10.1126/science.abd7672}.
+- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://doi.org/10.1126/science.abd7672) 2020.
 
-- **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. _J Roy Soc Interface_ 2020; https://doi.org/10.1098/rsif.2020.0161}.
+- **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. [_J Roy Soc Interface_](https://doi.org/10.1098/rsif.2020.0161) 2020.
 
-- **Lewnard JA**, Rogawski McQuade ET, Platts-Mills JA, Kotloff KL, Laxminarayan R. Incidence and etiology of clinically-attended, antibiotic-treated diarrhea among children under five years of age in low- and middle-income countries: evidence from the Global Enteric Multcenter Study. _PLoS Negl Trop Dis_ 2020; https://doi.org/10.1371/journal.pntd.0008520.
+- **Lewnard JA**, Rogawski McQuade ET, Platts-Mills JA, Kotloff KL, Laxminarayan R. Incidence and etiology of clinically-attended, antibiotic-treated diarrhea among children under five years of age in low- and middle-income countries: evidence from the Global Enteric Multcenter Study. [_PLoS Negl Trop Dis_](https://doi.org/10.1371/journal.pntd.0008520) 2020.
 
-- **Lewnard JA**, Liu VX, Jackson ML, Schmidt MA, Jewell BL, Flores JP, Jentz C, **Northrup GR**, Mahmud A, Reingold AL, Petersen M, Jewell NP, Young S, Bellows J. Incidence, clinical outcomes, and transmission dynamics of severe coronavirus disease 2019 in California and Washington: prospective cohort study. _BMJ_ 2020; https://doi.org/10.1136/bmj.m1923.
-  - Accompanying editorial: Anesi GL, Halpern SD, Delgado MK. Covid-19 related hospital admissions in the United States: needs and outcomes. _BMJ_ 2020; https://doi.org/10.1136/bmj.m2082}.
+- **Lewnard JA**, Liu VX, Jackson ML, Schmidt MA, Jewell BL, Flores JP, Jentz C, **Northrup GR**, Mahmud A, Reingold AL, Petersen M, Jewell NP, Young S, Bellows J. Incidence, clinical outcomes, and transmission dynamics of severe coronavirus disease 2019 in California and Washington: prospective cohort study. [_BMJ_](https://doi.org/10.1136/bmj.m1923) 2020.
+  - Accompanying editorial: Anesi GL, Halpern SD, Delgado MK. Covid-19 related hospital admissions in the United States: needs and outcomes. [_BMJ_](https://doi.org/10.1136/bmj.m2082) 2020.
 
-- **Lewnard JA**, Lo NC, Arinaminpathy N, Frost I, Laxminarayan R. Childhood vaccines and antibiotic use in low- and middle-income countries. _Nature_ 2020; https://doi.org/10.1038/s41586-020-2238-4.
-  - Accompanying editorial: Dempsey LA. Vaccines versus antibiotics. _Nature Immunol_ 2020; https://doi.org/10.1038/s41590-020-0701-x}.
+- **Lewnard JA**, Lo NC, Arinaminpathy N, Frost I, Laxminarayan R. Childhood vaccines and antibiotic use in low- and middle-income countries. [_Nature_](https://doi.org/10.1038/s41586-020-2238-4) 2020.
+  - Accompanying editorial: Dempsey LA. Vaccines versus antibiotics. [_Nature Immunol_](https://doi.org/10.1038/s41590-020-0701-x) 2020.
 
-- **Lewnard JA**, King LM, Fleming-Dutra KE, Link-Gelles R, Van Beneden CA. Incidence of pharyngitis, sinusitis, acute otitis media, and outpatient antibiotic prescribing preventable by vaccination against group A _Streptococcus_ in the United States. _Clin Infect Dis_ 2020; https://doi.org/10.1093/cid/ciaa529}.
-  - Accompanying editorial: Tanz RR, Shulman ST. Antimicrobial stewardship: a potentially important benefit of a group A _Streptococcus_ vaccine in areas with low rates of acute rheumatic fever. _Clin Infect Dis_ 2020; https://doi.org/10.1093/cid/ciaa533.
+- **Lewnard JA**, King LM, Fleming-Dutra KE, Link-Gelles R, Van Beneden CA. Incidence of pharyngitis, sinusitis, acute otitis media, and outpatient antibiotic prescribing preventable by vaccination against group A _Streptococcus_ in the United States. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa529) 2020.
+  - Accompanying editorial: Tanz RR, Shulman ST. Antimicrobial stewardship: a potentially important benefit of a group A _Streptococcus_ vaccine in areas with low rates of acute rheumatic fever. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa533) 2020.
 
-- **Lewnard JA**, Whittles LK, Rick AM, Martin JM. Naturally-acquired protection against upper respiratory symptoms involving group A _Streptococcus_ in a longitudinal cohort study. _Clin Infect Dis_ 2020; https://doi.org/10.1093/cid/ciaa044.
+- **Lewnard JA**, Whittles LK, Rick AM, Martin JM. Naturally-acquired protection against upper respiratory symptoms involving group A _Streptococcus_ in a longitudinal cohort study. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa044) 2020.
 
-- Jewell NP, **Lewnard JA**, Jewell BL. Predictive mathematical models of the COVID-19 pandemic: Underlying principles and value of projections. _JAMA_ 2020; https://doi.org/10.1001/jama.2020.6585.
+- Jewell NP, **Lewnard JA**, Jewell BL. Predictive mathematical models of the COVID-19 pandemic: Underlying principles and value of projections. [_JAMA_](https://doi.org/10.1001/jama.2020.6585) 2020.
 
-- Jewell NP, **Lewnard JA**, Jewell BL. Caution warranted: Using the Institute for Health Metrics and Evaluation (IHME) model for predicting the course of the COVID-19 pandemic. _Ann Intern Med_ 2020; https://doi.org/10.7326/M20-1565.
+- Jewell NP, **Lewnard JA**, Jewell BL. Caution warranted: Using the Institute for Health Metrics and Evaluation (IHME) model for predicting the course of the COVID-19 pandemic. [_Ann Intern Med_](https://doi.org/10.7326/M20-1565) 2020.
 
-- **Lewnard JA**, Lo NC. Scientific and ethical basis for contact-reducing interventions against COVID-19. _Lancet Infect Dis_ 2020; https://doi.org/10.1016/S1473-3099(20)30190-0.
+- **Lewnard JA**, Lo NC. Scientific and ethical basis for contact-reducing interventions against COVID-19. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(20)30190-0) 2020.
 
 - Wohl S, Metsky HC, Schaffner SF, Piantadosi A, Burns M, **Lewnard JA**, Chak B, Krasilnikova LA, Siddle KJ, Matranga CB, Bankamp B, Hennigan S, Sabina B, Byrne EH, McNall RJ, Shah RR, Qu J, Park DJ, Gharib S, Fitzgerald S, Barreira P, Fleming S, Lett S, Rota PA, Madoff LC, MacInnis BL, Yozwiak NL, Smole S, Grad YH, Sabeti PC. Combining genomics and epidemiology to track mumps virus transmission in the United States. _PLoS Biol_ 2020; https://doi.org/10.1371/journal.pbio.3000611.
 
