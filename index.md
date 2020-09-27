@@ -45,45 +45,46 @@ _**Published**_
 
 - **Lewnard JA**, Lo NC. Scientific and ethical basis for contact-reducing interventions against COVID-19. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(20)30190-0) 2020.
 
-- Wohl S, Metsky HC, Schaffner SF, Piantadosi A, Burns M, **Lewnard JA**, Chak B, Krasilnikova LA, Siddle KJ, Matranga CB, Bankamp B, Hennigan S, Sabina B, Byrne EH, McNall RJ, Shah RR, Qu J, Park DJ, Gharib S, Fitzgerald S, Barreira P, Fleming S, Lett S, Rota PA, Madoff LC, MacInnis BL, Yozwiak NL, Smole S, Grad YH, Sabeti PC. Combining genomics and epidemiology to track mumps virus transmission in the United States. _PLoS Biol_ 2020; https://doi.org/10.1371/journal.pbio.3000611.
+- Wohl S, Metsky HC, Schaffner SF, Piantadosi A, Burns M, **Lewnard JA**, Chak B, Krasilnikova LA, Siddle KJ, Matranga CB, Bankamp B, Hennigan S, Sabina B, Byrne EH, McNall RJ, Shah RR, Qu J, Park DJ, Gharib S, Fitzgerald S, Barreira P, Fleming S, Lett S, Rota PA, Madoff LC, MacInnis BL, Yozwiak NL, Smole S, Grad YH, Sabeti PC. Combining genomics and epidemiology to track mumps virus transmission in the United States. [_PLoS Biol_](https://doi.org/10.1371/journal.pbio.3000611) 2020.
 
-- Head JR, Collender PA, **Lewnard JA**, Skaff NK, Peng Y, Ohringer A, Cheng Q, Baker J, Li C, Liang S, Yang C, Hubbard A, Lopman BA, Remais JV. Early evidence of inactivated enterovirus 71 vaccine impact against hand, foot, and mouth disease in a major center of ongoing transmission in China, 2011--2018: a longitudinal surveillance study. _Clin Infect Dis_ 2020; https://doi.org/10.1093/cid/ciz1188.
+- Head JR, Collender PA, **Lewnard JA**, Skaff NK, Peng Y, Ohringer A, Cheng Q, Baker J, Li C, Liang S, Yang C, Hubbard A, Lopman BA, Remais JV. Early evidence of inactivated enterovirus 71 vaccine impact against hand, foot, and mouth disease in a major center of ongoing transmission in China, 2011--2018: a longitudinal surveillance study. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciz1188) 2020.
 
-- Chua H, Feng S, **Lewnard JA**, Sullivan SG, Blyth CC, Lipsitch M, Cowling BJ. The use of test-negative controls to monitor vaccine effectiveness: a systematic review of methodology. _Epidemiology_ 2020; https://www.doi.org/10.1097/EDE.0000000000001116.
+- Chua H, Feng S, **Lewnard JA**, Sullivan SG, Blyth CC, Lipsitch M, Cowling BJ. The use of test-negative controls to monitor vaccine effectiveness: a systematic review of methodology. [_Epidemiology_](https://www.doi.org/10.1097/EDE.0000000000001116) 2020.
 
 ### 2019
 
-- **Lewnard JA**, Givon-Lavi N, Dagan R. Dose-specific effectiveness of 7- and 13-valent pneumococcal conjugate vaccines against vaccine-serotype _Streptococcus pneumoniae_ colonization in children. _Clin Infect Di_ 2019; https://doi.org/10.1093/cid/ciz1164.
+- **Lewnard JA**, Givon-Lavi N, Dagan R. Dose-specific effectiveness of 7- and 13-valent pneumococcal conjugate vaccines against vaccine-serotype _Streptococcus pneumoniae_ colonization in children. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciz1164) 2019.
 
-- Pitzer VE, Bennett AI, Bar-Zeev N, Jere KC, Lopman BA, **Lewnard JA**, Parashar UD, Cunliffe NA. Evaluating strategies to improve rotavirus vaccine impact during the second year of life in Malawi. _Sci Transl Med_ 2019; https://doi.org/10.1126/scitranslmed.aav6419.
+- Pitzer VE, Bennett AI, Bar-Zeev N, Jere KC, Lopman BA, **Lewnard JA**, Parashar UD, Cunliffe NA. Evaluating strategies to improve rotavirus vaccine impact during the second year of life in Malawi. [_Sci Transl Med_](https://doi.org/10.1126/scitranslmed.aav6419) 2019.
 
-- **Lewnard JA**, Givon-Lavi N, Dagan R. Interaction with nontypeable _Haemophilus influenzae_ alters progression of _Streptococcus pneumonia_ serotypes from colonization to upper respiratory tract diseases in children in a site-specific manner. _J Infect Dis_ 2019; https://doi.org/10.1093/infdis/jiz312.
+- **Lewnard JA**, Givon-Lavi N, Dagan R. Interaction with nontypeable _Haemophilus influenzae_ alters progression of _Streptococcus pneumonia_ serotypes from colonization to upper respiratory tract diseases in children in a site-specific manner. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiz312) 2019.
 
-- **Lewnard JA**, Lopman BA, Parashar UD, Bennett A, Bar-Zeev N, Cunliffe NA, Samuel P, Guerrero ML, Ruiz-Palacios GM, Kang G, Pitzer VE. Heterogeneous susceptibility to rotavirus infection and gastroenteritis in two birth cohort studies: parameter estimation and epidemiological implications. _PLoS Comp Biol_ 2019; https://doi.org/10.1371/journal.pcbi.1007014.
+- **Lewnard JA**, Lopman BA, Parashar UD, Bennett A, Bar-Zeev N, Cunliffe NA, Samuel P, Guerrero ML, Ruiz-Palacios GM, Kang G, Pitzer VE. Heterogeneous susceptibility to rotavirus infection and gastroenteritis in two birth cohort studies: parameter estimation and epidemiological implications. [_PLoS Comp Biol_](https://doi.org/10.1371/journal.pcbi.1007014) 2019.
 
-- **Lewnard JA**, Reingold AL. Emerging challenges and opportunities in infectious disease epidemiology. _Am J Epidemiol_ 2019; https://doi.org/10.1093/aje/kwy264.
+- **Lewnard JA**, Reingold AL. Emerging challenges and opportunities in infectious disease epidemiology. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwy264) 2019.
 
-- **Lewnard JA**, Hanage WP. Making sense of differences in pneumococcal serotype replacement. _Lancet Infect Dis_ 2019; https://doi.org/10.1016/S1473-3099(18)30660-1.
-  - Comment: Hausdorff WP. Pneumococcal conjugate vaccines in different settings. _Lancet Infect Dis_ 2019; https://doi.org/10.1016/S1473-3099(19)30623-1
-  - Authors' reply: Hanage WP, **Lewnard JA**. _Lancet Infect Dis_ 2019; https://doi.org/10.1016/S1473-3099(19)30630-9.
+- **Lewnard JA**, Hanage WP. Making sense of differences in pneumococcal serotype replacement. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(18)30660-1) 2019.
+  - Comment: Hausdorff WP. Pneumococcal conjugate vaccines in different settings. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(19)30623-1) 2019.
+  - Authors' reply: Hanage WP, **Lewnard JA**. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(19)30630-9) 2019.
 
 ### 2018
 
-- **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. Measurement of vaccine direct effects under the test-negative design. _Am J Epidemiol_ 2018; https://doi.org/10.1093/aje/kwy163.
-  - Comment: Dean NE. _Am J Epidemiol_ 2019; https://doi.org/10.1093/aje/kwz019.
-  - Authors' reply: **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. _Am J Epidemiol_ 2019; https://doi.org/10.1093/aje/kwz018.
+- **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. Measurement of vaccine direct effects under the test-negative design. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwy163) 2018.
+  - Comment: Dean NE. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwz019) 2019.
+  - Authors' reply: **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwz018) 2019.
 
-- **Lewnard JA**, Tähtinen PA, Laine MK, Lindholm L, Jalava J, Huovinen P, Lipsitch M, Ruohola A. Impact of antimicrobial treatment for acute otitis media on carriage dynamics of penicillin-susceptible and penicillin--non-susceptible _Streptococcus pneumoniae_. _J Infect Dis_ 2018; https://doi.org/10.1093/infdis/jiy343.
-  - Accompanying editorial: Flasche S, Atkins KE. Balancing benefits and risks of antibiotic use. _J Infect Dis_ 2018; https://doi.org/10.1093/infdis/jiy344.
+- **Lewnard JA**, Tähtinen PA, Laine MK, Lindholm L, Jalava J, Huovinen P, Lipsitch M, Ruohola A. Impact of antimicrobial treatment for acute otitis media on carriage dynamics of penicillin-susceptible and penicillin--non-susceptible _Streptococcus pneumoniae_. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiy343) 2018.
+  - Accompanying editorial: Flasche S, Atkins KE. Balancing benefits and risks of antibiotic use. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiy344) 2018.
 
-- Hubbard TP, Billings G, Dörr T, Sit B, Warr AR, Kuehl CJ, Kim M, Delgado F, Mekalanos JJ, **Lewnard JA**, Waldor MK. A live vaccine rapidly protects against cholera in an infant rabbit model. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aap8423.
-\begin{itemize}
-  - Accompanying editorial: Hall RH. Curbing cholera. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aat9483.
+- Hubbard TP, Billings G, Dörr T, Sit B, Warr AR, Kuehl CJ, Kim M, Delgado F, Mekalanos JJ, **Lewnard JA**, Waldor MK. A live vaccine rapidly protects against cholera in an infant rabbit model. [_Sci Transl Med_](https://doi.org/10.1126/scitranslmed.aap8423) 2018.
+  - Accompanying editorial: Hall RH. Curbing cholera. [_Sci Transl Med_](https://doi.org/10.1126/scitranslmed.aat9483) 2018.
 
-- **Lewnard JA**, Givon-Lavi N, Tähtinen PA, Dagan R. Pneumococcal phenotype and interaction with nontypeable _Haemophilus influenzae_ as determinants of otitis media progression. _Infect Immun_ 2018; https://doi.org/10.1128/IAI.00727-17.
-  - Accompanying editorial: Pelton SI. Deconstructing progression from pneumococcal colonization to disease. _Infect Immun_ 2018; http://iai.asm.org/content/early/2018/03/27/IAI.00225-18}.
+- **Lewnard JA**, Givon-Lavi N, Tähtinen PA, Dagan R. Pneumococcal phenotype and interaction with nontypeable _Haemophilus influenzae_ as determinants of otitis media progression. [_Infect Immun_](https://doi.org/10.1128/IAI.00727-17) 2018.
+  - Accompanying editorial: Pelton SI. Deconstructing progression from pneumococcal colonization to disease. [_Infect Immun_](http://iai.asm.org/content/early/2018/03/27/IAI.00225-18) 2018.
 
-- **Lewnard JA**, Grad Y. Vaccine waning and mumps re-emergence in the United States. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aao5945.
+- **Lewnard JA**, Grad Y. Vaccine waning and mumps re-emergence in the United States. [_Sci Transl Med_](https://doi.org/10.1126/scitranslmed.aao5945) 2018.
+
+- **Lewnard JA**, Cobey SC. Immune history and influenza vaccine effectiveness. [_Vaccines_](https://doi.org/10.3390/vaccines6020028) 2018.
 
 ### 2017
 
@@ -110,34 +111,21 @@ _**Published**_
 
 - **Lewnard JA**, Gonsalves G, Ko AI. Low risk of international Zika virus spread due to the 2016 Olympics in Brazil. [_Ann Intern Med_](http://annals.org/article.aspx?articleid=2538663) 2016.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Antill\'{o}n M, Gonsalves G, Miller AC, Ko AI, Pitzer VE. Strategies to prevent cholera introduction during international personnel deployments: a computational modeling analysis based on the 2010 Haiti outbreak. \textit{PLoS Med} 2016; \textbf{13}:e1001947. \href{http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001947}{doi:10.1371/ journal.pmed.1001947}.
-\begin{itemize}
-\small
-\item Coverage in \href{http://www.theguardian.com/world/2016/apr/14/haiti-cholera-epidemic-un-prevention}{The Guardian}, \href{http://www.bbc.co.uk/programmes/p03qc75g}{BBC World Service}, \href{http://commonhealth.wbur.org/2016/02/antiobiotic-pill-cholera-united-nations}{WBUR-NPR Boston}
-\item Referenced by UN Special Rapporteurs as evidence of the UN's inadequate response in \href{https://documents-dds-ny.un.org/doc/UNDOC/GEN/N16/271/19/PDF/N1627119.pdf?OpenElement}{letter} to Former Secretary-General Ban Ki Moon\medskip
-\end{itemize}
+- **Lewnard JA**, Antillón M, Gonsalves G, Miller AC, Ko AI, Pitzer VE. Strategies to prevent cholera introduction during international personnel deployments: a computational modeling analysis based on the 2010 Haiti outbreak. [_PLoS Med_](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001947) 2016.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Givon-Lavi N, Huppert A, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Epidemiological markers for interactions among \textit{Streptococcus pneumoniae}, \textit{Haemophilus influenzae}, and \textit{Staphylococcus aureus} in upper respiratory tract carriage. \textit{J Infect Dis} 2015; \textbf{213}:1596--605. \href{http://jid.oxfordjournals.org/content/early/2016/01/21/infdis.jiv761.short?rss=1}{doi:10.1093/infdis/jiv761}.\\
+### 2015
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Jirmanus L,  J\'{u}nior NN, Machado PR, Glesby MJ, Ko AI, Carvallho EM, Schriefer A, Weinberger DM. Forecasting temporal dynamics of cutaneous leishmaniasis in Northeast Brazil. \textit{PLoS Negl Trop Dis} 2014; \textbf{8}:e3283. \href{http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003283}{doi:10.1371/journal.pntd.0003283}.\medskip
+- **Lewnard JA**, Givon-Lavi N, Huppert A, Pettigrew MM, Regev-Yochay G, Dagan R, Weinberger DM. Epidemiological markers for interactions among _Streptococcus pneumoniae_, _Haemophilus influenzae_, and _Staphylococcus aureus_ in upper respiratory tract carriage. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiv761) 2015.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}*, Ndeffo-Mbah ML*, Alfaro-Murillo JA, Altice FL, Bawo L, Nyenswah TG, Galvani AP. Dynamics and control of Ebola virus transmission in Montserrado, Liberia: a mathematical modelling analysis. \textit{Lancet Infect Dis} 2014; \textbf{14}:1189--95. \href{http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(14)70995-8/abstract}{doi:10.1016/S1473-3099(14)70995-8}. (*\textit{contributed equally})
-\begin{itemize}
-\small
-\item Cover article, December 2014 issue
-\item Accompanying editorial: Fisman D, Tuite AR. Ebola: no time to waste. \textit{Lancet Infect Dis} 2014; \textbf{14}:1164--5. \href{http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(14)70851-5/abstract}{doi:10.1016/S1473-3099(14)70851-5}.
-\item Coverage in \href{http://www.telegraph.co.uk/news/worldnews/ebola/11184611/EU-pledges-1bn-Ebola-aid-for-west-Africa-amid-warnings-of-explosion-of-virus-by-mid-December.html}{The Telegraph}, \href{http://www.theguardian.com/world/2014/oct/24/ebola-epidemic-west-africa-lancet-infectious-diseases-liberia}{The Guardian}, \href{https://www.washingtonpost.com/national/health-science/us-ebola-fighters-head-to-africa-but-will-the-military-and-civilian-effort-be-enough/2014/10/25/1ceba6a8-5b99-11e4-8264-deed989ae9a2_story.html}{The Washington Post}, \href{http://time.com/3537563/ebola-donations/}{Time}, \href{http://news.trust.org//item/20141024122601-cgdey/}{Reuters}, \href{http://www.newsweek.com/healthcare-workers-fighting-ebola-biggest-battle-staying-healthy-282821}{Newsweek}, other outlets (\href{https://www.altmetric.com/details/2807872/news?src=bookmarklet}{link})\medskip
-\end{itemize}
-\normalsize
+### 2014
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Berrang-Ford L, Lwasa S, Bambaiha Namanya D, Patterson KA, Donnelly B, Kulkarni MA, Harper SL, Ogden NH, Carcamo CP, IHACC Research Team. Relative undernourishment and food insecurity associations with \textit{Plasmodium falciparum} among Batwa pygmies in Uganda: evidence from a cross-sectional survey. \textit{Am J Trop Med Hyg} 2014; \textbf{91}:39--49. \href{http://www.ajtmh.org/content/91/1/39.short}{doi:10.4269/ajtmh.13-0422}.\medskip
+- **Lewnard JA**, Jirmanus L,  Júnior NN, Machado PR, Glesby MJ, Ko AI, Carvallho EM, Schriefer A, Weinberger DM. Forecasting temporal dynamics of cutaneous leishmaniasis in Northeast Brazil. [_PLoS Negl Trop Dis_](https://doi.org/10.1371/journal.pntd.0003283) 2014.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Berrang-Ford L. Internet-based partner selection and risk for unprotected anal intercourse in sexual encounters among men who have sex with men: a meta-analysis of observational studies. \textit{Sex Transm Infect} 2014; \textbf{90}:290--6. \href{http://sti.bmj.com/content/90/4/290.short}{doi:10.1136/sextrans-2013-051332}.
+- **Lewnard JA**, Ndeffo-Mbah ML, Alfaro-Murillo JA, Altice FL, Bawo L, Nyenswah TG, Galvani AP. Dynamics and control of Ebola virus transmission in Montserrado, Liberia: a mathematical modelling analysis. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(14)70995-8) 2014.
+  - Accompanying editorial: Fisman D, Tuite AR. Ebola: no time to waste. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(14)70851-5) 2014.
+
+- **Lewnard J**, Berrang-Ford L, Lwasa S, Bambaiha Namanya D, Patterson KA, Donnelly B, Kulkarni MA, Harper SL, Ogden NH, Carcamo CP, IHACC Research Team. Relative undernourishment and food insecurity associations with _Plasmodium falciparum_ among Batwa pygmies in Uganda: evidence from a cross-sectional survey. [_Am J Trop Med Hyg_](https://doi.org/10.4269/ajtmh.13-0422) 2014.
+
+- **Lewnard JA**, Berrang-Ford L. Internet-based partner selection and risk for unprotected anal intercourse in sexual encounters among men who have sex with men: a meta-analysis of observational studies. [_Sex Transm Infect_](https://doi.org/10.1136/sextrans-2013-051332) 2014.
 
 
