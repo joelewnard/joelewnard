@@ -6,9 +6,7 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 
 ## Publications
 
-Work by current and former members are indicated in **bold** text.
-
-PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
+Work by current and former members are indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 ### 2020
 
@@ -68,45 +66,25 @@ _**Published**_
 
 ### 2018
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Tedijanto C, Cowling BJ, Lipsitch M. Measurement of vaccine direct effects under the test-negative design. \textit{Am J Epidemiol} 2018; \textbf{187}:2686--97. \href{https://doi.org/10.1093/aje/kwy163}{doi:10.1093/aje/kwy163}. \medskip
+- **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. Measurement of vaccine direct effects under the test-negative design. _Am J Epidemiol_ 2018; https://doi.org/10.1093/aje/kwy163.
+  - Comment: Dean NE. _Am J Epidemiol_ 2019; https://doi.org/10.1093/aje/kwz019.
+  - Authors' reply: **Lewnard JA**, Tedijanto C, Cowling BJ, Lipsitch M. _Am J Epidemiol_ 2019; https://doi.org/10.1093/aje/kwz018.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}*, T\"{a}htinen PA*, Laine MK, Lindholm L, Jalava J, Huovinen P, Lipsitch M, Ruohola A. Impact of antimicrobial treatment for acute otitis media on carriage dynamics of penicillin-susceptible and penicillin--non-susceptible \textit{Streptococcus pneumoniae}. \textit{J Infect Dis} 2018; \textbf{218}:1356--66. \href{https://doi.org/10.1093/infdis/jiy343}{doi:10.1093/infdis/jiy343}. (*\textit{contributed equally})
+- **Lewnard JA**, Tähtinen PA, Laine MK, Lindholm L, Jalava J, Huovinen P, Lipsitch M, Ruohola A. Impact of antimicrobial treatment for acute otitis media on carriage dynamics of penicillin-susceptible and penicillin--non-susceptible _Streptococcus pneumoniae_. _J Infect Dis_ 2018; https://doi.org/10.1093/infdis/jiy343.
+  - Accompanying editorial: Flasche S, Atkins KE. Balancing benefits and risks of antibiotic use. _J Infect Dis_ 2018; https://doi.org/10.1093/infdis/jiy344.
+
+- Hubbard TP, Billings G, Dörr T, Sit B, Warr AR, Kuehl CJ, Kim M, Delgado F, Mekalanos JJ, **Lewnard JA**, Waldor MK. A live vaccine rapidly protects against cholera in an infant rabbit model. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aap8423.
 \begin{itemize}
-\small
-\item Editor's Choice Article
-\item Accompanying editorial: Flasche S, Atkins KE. Balancing benefits and risks of antibiotic use. \textit{J Infect Dis} 2018; \textbf{218}: 1351--3. \href{https://doi.org/10.1093/infdis/jiy344}{doi:10.1093/infdis/jiy344}.
-\end{itemize}\medskip
+  - Accompanying editorial: Hall RH. Curbing cholera. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aat9483.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} Hubbard TP, Billings G, D{\"o}rr T, Sit B, Warr AR, Kuehl CJ, Kim M, Delgado F, Mekalanos JJ, \textbf{Lewnard JA}, Waldor MK. A live vaccine rapidly protects against cholera in an infant rabbit model. \textit{Sci Transl Med} 2018; \textbf{10}:eeap8423. \href{https://doi.org/10.1126/scitranslmed.aap8423}{doi:10.1126/scitranslmed.aap8423}
-\begin{itemize}
-\small
-\item Accompanying editorial: Hall RH. Curbing cholera. \textit{Sci Transl Med} 2018; \textbf{10}:eeat9483. \href{https://doi.org/10.1126/scitranslmed.aat9483}{doi:10.1126/scitranslmed.aat9483}
-\item Coverage in \href{https://www.aaas.org/news/fast-acting-vaccine-and-probiotic-combat-cholera-animals}{AAAS News}, \href{https://www.scientificamerican.com/article/new-probiotic-cholera-vaccine-can-outrace-the-infections-rapid-spread/}{Scientific American}, other outlets (\href{https://www.altmetric.com/details/43674901/news}{link}).
-\end{itemize}
-\medskip
+- **Lewnard JA**, Givon-Lavi N, Tähtinen PA, Dagan R. Pneumococcal phenotype and interaction with nontypeable _Haemophilus influenzae_ as determinants of otitis media progression. _Infect Immun_ 2018; https://doi.org/10.1128/IAI.00727-17.
+  - Accompanying editorial: Pelton SI. Deconstructing progression from pneumococcal colonization to disease. _Infect Immun_ 2018; http://iai.asm.org/content/early/2018/03/27/IAI.00225-18}.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Givon-Lavi N, T{\"a}htinen PA, Dagan R. Pneumococcal phenotype and interaction with nontypeable \textit{Haemophilus influenzae} as determinants of otitis media progression. \textit{Infect Immun} 2018; \textbf{86}:e00727-17. \href{https://doi.org/10.1128/IAI.00727-17
-}{doi:10.1128/IAI.00727-17}.
-\begin{itemize}
-\small
-\item Accompanying editorial: Pelton SI. Deconstructing progression from pneumococcal colonization to disease. \textit{Infect Immun} 2018; \textbf{86}:e00225-18. \href{http://iai.asm.org/content/early/2018/03/27/IAI.00225-18}{doi:10.1128/IAI.00225-18}.
-\end{itemize}
-\medskip
+- **Lewnard JA**, Grad Y. Vaccine waning and mumps re-emergence in the United States. _Sci Transl Med_ 2018; https://doi.org/10.1126/scitranslmed.aao5945.
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} \textbf{Lewnard JA}, Grad Y. Vaccine waning and mumps re-emergence in the United States. \textit{Sci Transl Med} 2018; \textbf{10}:eaao5945. \href{https://doi.org/10.1126/scitranslmed.aao5945}{doi:10.1126/scitranslmed.aao5945}. 
-\begin{itemize}
-\small
-\item Coverage in \href{http://www.sciencemag.org/news/2018/03/why-so-many-college-students-are-coming-down-mumps}{Science}, \href{https://podcasts.jwatch.org/index.php/podcast-220-mumps-outbreaks-blame-waning-protection-not-new-viruses-or-bad-vaccines/2018/04/04/}{NEJM}, \href{https://www.nytimes.com/2018/03/21/well/live/mumps-is-on-the-rise-a-waning-vaccine-response-may-be-why.html}{New York Times}, \href{https://www.forbes.com/sites/tarahaelle/2018/03/22/mumps-vaccine-effectiveness-declines-over-time-but-theres-a-solution/#67c25d83343c}{Forbes}, \href{https://www.cnn.com/2018/03/21/health/mumps-vaccine-study/index.html}{CNN}, \href{https://www.cbsnews.com/news/highly-contagious-mumps-virus-strikes-among-vaccinated-young-adults/}{CBS News}, \href{http://www.philly.com/philly/health/the-mumps-are-back-and-a-new-study-says-this-is-why-20180321.html}{Philadelphia Inquirer}, other outlets (\href{https://www.altmetric.com/details/34682157?src=bookmarklet}{link})\medskip
-\end{itemize}
-\normalsize
+### 2017
 
-\addtocounter{pubs}{-1}
-\years{[\thepubs]} Phelps MD, Azman AS, \textbf{Lewnard JA}, Antill\'{o}n M, Simonsen L, Andreasen V, Jensen PKM, Pitzer VE. The importance of thinking beyond the water supply in cholera epidemics: a historical urban case study. \textit{PLoS Negl Trop Dis} 2017; \textbf{11}:e0006103. \href{http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006103}{doi.org/10.1371/journal.pntd.0006103}.\medskip
+- Phelps MD, Azman AS, \textbf{Lewnard JA}, Antill\'{o}n M, Simonsen L, Andreasen V, Jensen PKM, Pitzer VE. The importance of thinking beyond the water supply in cholera epidemics: a historical urban case study. \textit{PLoS Negl Trop Dis} 2017; \textbf{11}:e0006103. \href{http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006103}{doi.org/10.1371/journal.pntd.0006103}.\medskip
 
 \addtocounter{pubs}{-1}
 \years{[\thepubs]} \textbf{Lewnard JA}, Givon-Lavi N, Weinberger DM, Lipsitch M, Dagan R. Pan-serotype reduction in progression of \textit{Streptococcus pneumoniae} to otitis media after rollout of pneumococcal conjugate vaccines. \textit{Clin Infect Dis} 2017; \textbf{65}:1853--61. \href{https://doi.org/10.1093/cid/cix673}{doi:10.1093/cid/cix673}.\medskip
