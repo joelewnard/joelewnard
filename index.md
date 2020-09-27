@@ -1,6 +1,6 @@
 # Lewnard group at the University of California, Berkeley
 
-We study the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology] (https://ccb.berkeley.edu/) at UC Berkeley.
+We study the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology](https://ccb.berkeley.edu/) at UC Berkeley.
 
 Our work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), rotavirus, and group A _Streptococcus_. We are also interested in statistical methods for the design and analysis of vaccine efficacy and effectiveness studies. We have redirected substantial effort to COVID-19 in the ongoing pandemic.
 
