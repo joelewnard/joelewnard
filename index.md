@@ -4,6 +4,34 @@ We study the natural history, transmission dynamics, and control of infectious d
 
 Our work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), rotavirus, and group A _Streptococcus_. We are also interested in statistical methods for the design and analysis of vaccine efficacy and effectiveness studies. We have redirected substantial effort to COVID-19 in the ongoing pandemic.
 
+## People ##
+
+Joe Lewnard (PI)
+
+Kristin Andrejko
+_Epidemiology PhD Student_
+
+Graham Northrup
+_Computational biology PhD Student_
+Co-supervised with [Mike Boots](https://bootslab.org/)
+
+Tess Baker
+_Epidemiology & Biostats MPH student_
+
+Nick Murdock
+_Epidemiology & Biostats MPH student_
+
+Tyler Chervo
+_Infectious Diseases & Vaccinology MPH student_
+
+### Alumni
+
+Lauren Linde
+_Epidemiology & Biostats MPH student (2020)_
+
+Buddhika Ratnasiri
+_Undergraduate Honors student (2020)_ 
+
 ## Recruitment ##
 
 Multiple fundned positions are available for PhD students and postdocs. Please contact jlewnard@berkeley.edu with your CV and a description of your background and research interests.
