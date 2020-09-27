@@ -14,15 +14,19 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### 2020
 
+_**Pre-prints**_
+
+
+
 _**In press**_
+
+- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://doi.org/10.1126/science.abd7672) 2020.
 
 - **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.03.01.20029850).
 
 - Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. _Lancet Infect Dis_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.04.05.20036574).
 
 _**Published**_
-
-- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://doi.org/10.1126/science.abd7672) 2020.
 
 - **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. [_J Roy Soc Interface_](https://doi.org/10.1098/rsif.2020.0161) 2020.
 
@@ -86,6 +90,8 @@ _**Published**_
 
 - **Lewnard JA**, Cobey SC. Immune history and influenza vaccine effectiveness. [_Vaccines_](https://doi.org/10.3390/vaccines6020028) 2018.
 
+- **Lewnard JA**. Ebola virus disease: 11,323 deaths later, how far have we come?. [_Lancet_](https://doi.org/10.1016/S0140-6736(18)31443-0) 2018.
+
 ### 2017
 
 - Phelps MD, Azman AS, **Lewnard JA**, Antillón M, Simonsen L, Andreasen V, Jensen PKM, Pitzer VE. The importance of thinking beyond the water supply in cholera epidemics: a historical urban case study. [_PLoS Negl Trop Dis_](http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0006103) 2017.
@@ -123,6 +129,8 @@ _**Published**_
 
 - **Lewnard JA**, Ndeffo-Mbah ML, Alfaro-Murillo JA, Altice FL, Bawo L, Nyenswah TG, Galvani AP. Dynamics and control of Ebola virus transmission in Montserrado, Liberia: a mathematical modelling analysis. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(14)70995-8) 2014.
   - Accompanying editorial: Fisman D, Tuite AR. Ebola: no time to waste. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(14)70851-5) 2014.
+  
+- Rivers C, Alexander K, Bellan S, Del Valle S, Drake JM, Eisenberg JN, Eubank S, Ferrari M, Halloran ME, Galvani AP, Lewis BL, **Lewnard JA**, Lofgren E, Macal M, Marathe M, Ndeffo Mbah ML, Meyers LA, Meza R, Park A, Porco T, Scarpino SV, Shaman J, Vespignani A, Yang W. Ebola: models do more than forecast. [_Nature_](https://doi.org/10.1038/515492a) 2014.
 
 - **Lewnard J**, Berrang-Ford L, Lwasa S, Bambaiha Namanya D, Patterson KA, Donnelly B, Kulkarni MA, Harper SL, Ogden NH, Carcamo CP, IHACC Research Team. Relative undernourishment and food insecurity associations with _Plasmodium falciparum_ among Batwa pygmies in Uganda: evidence from a cross-sectional survey. [_Am J Trop Med Hyg_](https://doi.org/10.4269/ajtmh.13-0422) 2014.
 
