@@ -54,7 +54,7 @@ _**Pre-prints**_
 
 _**In press**_
 
-Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. _JAMA_ 2020 (in press).
+- Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. _JAMA_ 2020 (in press).
 
 - **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.03.01.20029850).
 
