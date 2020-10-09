@@ -54,13 +54,15 @@ _**Pre-prints**_
 
 _**In press**_
 
-- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://doi.org/10.1126/science.abd7672) 2020.
+Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. _JAMA_ 2020 (in press).
 
 - **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.03.01.20029850).
 
 - Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. _Lancet Infect Dis_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.04.05.20036574).
 
 _**Published**_
+
+- Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://science.sciencemag.org/content/early/2020/09/29/science.abd7672) 2020.
 
 - **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. [_J Roy Soc Interface_](https://doi.org/10.1098/rsif.2020.0161) 2020.
 
