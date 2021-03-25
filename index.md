@@ -51,16 +51,19 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### 2021
 
-_**Pre-prints**_
-
-
-
 _**In press**_
 
+- **Andrejko K**, **Ratnasiri B**, Hausdorff WP, Laxminarayan R, **Lewnard JA**. Antimicrobial resistance in pediatric _Streptococcus pneumoniae_ isolates amid global implementation of pneumococcal conjugate vaccines: a systematic review and meta-regression analysis. _Lancet Microbe_ 2021 (in press).
 
+- **Lewnard JA**, Patel MM, Jewell NP, Verani JR, Kobayashi M, Tenforde M, Dean NE, Cowling BJ, Lopman BA. Theoretical framework for retrospective studies of the effectiveness of SARS-CoV-2 vaccines. _Epidemiology_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2021.01.21.21250258).
 
+- Head JR, **Andrejko K**, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, **Northrup G**, Clinck K, Harrison R, **Lewnard JA**, Remais JV .The effect of school closures and reopening strategies on COVID- 19 infection dynamics in the San Francisco Bay Area: a cross-sectional survey and modeling analysis. _Epidemics_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.08.06.20169797).
 
 _**Published**_
+
+- **Lewnard JA**, Bruxvoort K, Fischer H, Hong V, Grant LR, Jodar L, Gessner BD, Tartof SY. Prevention of COVID- 19 among older adults receiving pneumococcal conjugate vaccine suggests interactions between _Streptococcus pneumoniae_ and SARS-CoV-2 in the respiratory tract. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiab128) 2021.
+
+- **Lewnard JA**, Mora AM, Nkwocha O, Kogut K, Rauch SA, Morga N, Hernandez S, Wong MP, Huen K, **Andrejko K**, Jewell NP, Parra KL, Holland N, Harris E, Cuevas M, Eskenazi B, CHAMACOS-Project-19 Study Team. Prevalence and clinical profile of SARS-CoV-2 infection among farmworkers in California: June–November, 2020. [_Emerg Infect Dis_](https://doi.org/10.3201/eid2705.204949) 2021.
 
 - Fu H, **Lewnard JA**, Frost I, Laxminarayan R, Arinaminpathy N. Estimating the vaccine-avertable burden of multi- drug-resistant tuberculosis: a modelling study. [_Nat Commun_](https://doi.org/10.1038/s41467-020-20731-x) 2021.
 
@@ -79,7 +82,7 @@ _**Published**_
 - Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. [_JAMA_](https://doi.org/10.1001/jama.2020.20539) 2020.
 
 - Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://science.sciencemag.org/content/early/2020/09/29/science.abd7672) 2020.
-  - Accompanying editorial: John J, Kang G. Public health during the pandemic in India. [_Science_] (https://doi.org/10.1126/science.abe9707) 2020.
+  - Accompanying editorial: John J, Kang G. Public health during the pandemic in India. [_Science_](https://doi.org/10.1126/science.abe9707) 2020.
 
 - **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. [_J Roy Soc Interface_](https://doi.org/10.1098/rsif.2020.0161) 2020.
 
