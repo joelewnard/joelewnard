@@ -17,6 +17,9 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 - Kristin Andrejko
   - _Epidemiology PhD Student_
 
+- Laura King
+  - _Epidemiology PhD Student_
+
 - Graham Northrup
   - _Computational biology PhD Student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
@@ -46,7 +49,7 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members are indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
-### 2020
+### 2021
 
 _**Pre-prints**_
 
@@ -54,15 +57,29 @@ _**Pre-prints**_
 
 _**In press**_
 
-- Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. _JAMA_ 2020 (in press).
 
-- **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. _Epidemiology_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.03.01.20029850).
 
-- Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. _Lancet Infect Dis_ 2020 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.04.05.20036574).
 
 _**Published**_
 
+- Fu H, **Lewnard JA**, Frost I, Laxminarayan R, Arinaminpathy N. Estimating the vaccine-avertable burden of multi- drug-resistant tuberculosis: a modelling study. [_Nat Commun_](https://doi.org/10.1038/s41467-020-20731-x) 2021.
+
+### 2020
+
+- Bennett A, Pollock L, Bar-Zeev N, **Lewnard JA**, Jere KC, Lopman, BA, Iturriza-Gomara M, Pitzer VE, Cunliffe NA. Community transmission of rotavirus infection in a vaccinated population in Malawi: a prospective household cohort study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(20)30597-1) 2020.
+  - Accompanying editorial: Mwenyenkulu TE, Ntenda PAM. Effectiveness of rotavirus vaccine in preventing transmission of rotavirus from children to household contacts in Malawi. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473- 3099(20)30683-6) 2020.
+
+- **Lewnard JA**, Givon-Lavi N, Dagan R. Effectiveness of pneumococcal conjugate vaccines against community-acquired alveolar pneumonia attributable to vaccine-serotype Streptococcus pneumoniae among children. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa1860) 2020.
+ - Accompanying editorial: Klugman K, Rodgers G. Impact of pneumococcal conjugate. vaccine on vaccine serotype specific pneumonia. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa1867) 2020.
+
+- Cheng Q, Collender PA, Heaney AK, Li X, Dasan R, Li C, **Lewnard JA**, Zelner J, Liang S, Chang HH, Waller LA, Lopman BA, Yang C, Remais JV. Towards a simulation framework for optimizing infectious dis- ease surveillance: an information theoretic approach for surveillance system design. [_PLoS Comp Biol_](https://doi.org/10.1371/journal.pcbi.1008477) 2020.
+
+- **Northrup GR**, Qian L, Bruxvoort K, Marx FM, Whittles LK, **Lewnard JA**. Inference of naturally-acquired immunity using a self-matched negative control design. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000001305) 2020 
+
+- Lo NC, Nyathi S, Chapman LAC, Rodriguez-Barraquer I, Kushel M, Bibbins-Domingo K, **Lewnard JA**. Influenza, mumps, and varicella outbreaks in United States migrant detention centers. [_JAMA_](https://doi.org/10.1001/jama.2020.20539) 2020.
+
 - Laxminarayan R, Wahl B, Dudala SR, Gopal K, Mohan C, Neelima S, Jawahar Reddy KS, Radhakrishnan J, **Lewnard JA**. Epidemiology and transmission dynamics of COVID-19 in two Indian states. [_Science_](https://science.sciencemag.org/content/early/2020/09/29/science.abd7672) 2020.
+  - Accompanying editorial: John J, Kang G. Public health during the pandemic in India. [_Science_] (https://doi.org/10.1126/science.abe9707) 2020.
 
 - **Lewnard JA**. Uses of pathogen detection data to estimate vaccine direct effects in case-control studies. [_J Roy Soc Interface_](https://doi.org/10.1098/rsif.2020.0161) 2020.
 
