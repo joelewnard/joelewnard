@@ -73,7 +73,7 @@ _**Published**_
   - Accompanying editorial: Mwenyenkulu TE, Ntenda PAM. Effectiveness of rotavirus vaccine in preventing transmission of rotavirus from children to household contacts in Malawi. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473- 3099(20)30683-6) 2020.
 
 - **Lewnard JA**, Givon-Lavi N, Dagan R. Effectiveness of pneumococcal conjugate vaccines against community-acquired alveolar pneumonia attributable to vaccine-serotype Streptococcus pneumoniae among children. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa1860) 2020.
- - Accompanying editorial: Klugman K, Rodgers G. Impact of pneumococcal conjugate. vaccine on vaccine serotype specific pneumonia. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa1867) 2020.
+  - Accompanying editorial: Klugman K, Rodgers G. Impact of pneumococcal conjugate. vaccine on vaccine serotype specific pneumonia. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaa1867) 2020.
 
 - Cheng Q, Collender PA, Heaney AK, Li X, Dasan R, Li C, **Lewnard JA**, Zelner J, Liang S, Chang HH, Waller LA, Lopman BA, Yang C, Remais JV. Towards a simulation framework for optimizing infectious dis- ease surveillance: an information theoretic approach for surveillance system design. [_PLoS Comp Biol_](https://doi.org/10.1371/journal.pcbi.1008477) 2020.
 
