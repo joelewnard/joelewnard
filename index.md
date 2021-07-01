@@ -53,7 +53,9 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 _**In press**_
 
+- Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. _Lancet Infect Dis_ 2021 (in press).
 
+- **Andrejko K**, Whittles LK, **Lewnard JA**. Health economic value of vaccination against group A Streptococcus in the United States. _Clin Infect Dis_ 2021 (in press).
 
 _**Published**_
 
