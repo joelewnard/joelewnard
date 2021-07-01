@@ -53,13 +53,15 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 _**In press**_
 
-- **Andrejko K**, **Ratnasiri B**, Hausdorff WP, Laxminarayan R, **Lewnard JA**. Antimicrobial resistance in pediatric _Streptococcus pneumoniae_ isolates amid global implementation of pneumococcal conjugate vaccines: a systematic review and meta-regression analysis. _Lancet Microbe_ 2021 (in press).
 
-- **Lewnard JA**, Patel MM, Jewell NP, Verani JR, Kobayashi M, Tenforde M, Dean NE, Cowling BJ, Lopman BA. Theoretical framework for retrospective studies of the effectiveness of SARS-CoV-2 vaccines. _Epidemiology_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2021.01.21.21250258).
-
-- Head JR, **Andrejko K**, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, **Northrup G**, Clinck K, Harrison R, **Lewnard JA**, Remais JV .The effect of school closures and reopening strategies on COVID- 19 infection dynamics in the San Francisco Bay Area: a cross-sectional survey and modeling analysis. _Epidemics_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2020.08.06.20169797).
 
 _**Published**_
+
+- **Andrejko K**, **Ratnasiri B**, Hausdorff WP, Laxminarayan R, **Lewnard JA**. Antimicrobial resistance in pediatric _Streptococcus pneumoniae_ isolates amid global implementation of pneumococcal conjugate vaccines: a systematic review and meta-regression analysis. [_Lancet Microbe_](https://doi.org/10.1016/S2666-5247(21)00064-1) 2021.
+
+- **Lewnard JA**, Patel MM, Jewell NP, Verani JR, Kobayashi M, Tenforde M, Dean NE, Cowling BJ, Lopman BA. Theoretical framework for retrospective studies of the effectiveness of SARS-CoV-2 vaccines. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000001366) 2021.
+
+- Head JR, **Andrejko K**, Cheng Q, Collender PA, Phillips S, Boser A, Heaney AK, Hoover CM, Wu SL, **Northrup G**, Clinck K, Harrison R, **Lewnard JA**, Remais JV . School closures reduced social mixing of children during COVID-19 with implications for transmission risk and school reopening policies. [_J Royal Soc Interface_](https://doi.org/10.1098/rsif.2020.0970) 2021. 
 
 - **Lewnard JA**, Bruxvoort K, Fischer H, Hong V, Grant LR, Jodar L, Gessner BD, Tartof SY. Prevention of COVID- 19 among older adults receiving pneumococcal conjugate vaccine suggests interactions between _Streptococcus pneumoniae_ and SARS-CoV-2 in the respiratory tract. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiab128) 2021.
 
