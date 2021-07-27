@@ -55,9 +55,14 @@ _**In press**_
 
 - Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. _Lancet Infect Dis_ 2021 (in press).
 
-- **Andrejko K**, Whittles LK, **Lewnard JA**. Health economic value of vaccination against group A Streptococcus in the United States. _Clin Infect Dis_ 2021 (in press).
+- Mora AM, **Lewnard JA**, Kogut K, Rauch SA, Morga N, Hernandez S, Wong MP, Huen K, Chang C, Jewell NP, Holland N, Harris E, Cuevas M, Eskenazi B. Risk factors for SARS-CoV-2 infection among farmworkers in Monterey County, California. _JAMA Netw Open_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2021.02.01.21250963).
 
 _**Published**_
+
+- **Andrejko K**, Pry JM, Myers JF, Jewell NP, Openshaw J, Watt J, Jain S, **Lewnard JA**. Prevention of COVID-
+19 by mRNA-based vaccines within the general population of California. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciab640) 2021.
+
+- **Andrejko K**, Whittles LK, **Lewnard JA**. Health economic value of vaccination against group A Streptococcus in the United States. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciab597) 2021.
 
 - **Andrejko K**, **Ratnasiri B**, Hausdorff WP, Laxminarayan R, **Lewnard JA**. Antimicrobial resistance in pediatric _Streptococcus pneumoniae_ isolates amid global implementation of pneumococcal conjugate vaccines: a systematic review and meta-regression analysis. [_Lancet Microbe_](https://doi.org/10.1016/S2666-5247(21)00064-1) 2021.
 
