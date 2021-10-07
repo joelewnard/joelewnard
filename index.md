@@ -27,19 +27,23 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 - Tess Baker
   - _Epidemiology & Biostats MPH student_
 
+### Alumni
+
 - Nick Murdock
   - _Epidemiology & Biostats MPH student_
+  - Now Research Associate at [The HIV Forum](https://forumresearch.org/hiv-forum/hiv-overview)
 
 - Tyler Chervo
   - _Infectious Diseases & Vaccinology MPH student_
-
-### Alumni
+  - Now Research Analyst at Kaiser Permanente
 
 - Lauren Linde
   - _Epidemiology & Biostats MPH student (2020)_
+  - Now Epidemiologist at California Department of Public Health
 
 - Buddhika Ratnasiri
   - _Undergraduate Honors student (2020)_ 
+  - Now Clinical Research Coordinator at UCSF
 
 ## Recruitment ##
 
@@ -51,13 +55,12 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### 2021
 
-_**In press**_
 
-- Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. _Lancet Infect Dis_ 2021 (in press).
+- Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00393-5) 2021.
+ - Accompanying editorial: Li Y, Nair H. How reliable are COVID-19 burden estimates for India?. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00422-9) 2021.
 
-- Mora AM, **Lewnard JA**, Kogut K, Rauch SA, Morga N, Hernandez S, Wong MP, Huen K, Chang C, Jewell NP, Holland N, Harris E, Cuevas M, Eskenazi B. Risk factors for SARS-CoV-2 infection among farmworkers in Monterey County, California. _JAMA Netw Open_ 2021 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2021.02.01.21250963).
-
-_**Published**_
+- Mora AM, **Lewnard JA**, Kogut K, Rauch SA, Morga N, Hernandez S, Wong MP, Huen K, Chang C, Jewell NP, Holland N, Harris E, Cuevas M, Eskenazi B. Risk factors for SARS-CoV-2 infection among farmworkers in Monterey County, California. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2021.24116) 2021.
+  - Accompanying editorial: Aguilar-Gzxiola SA, Ramirez SM, Kissam E. A reality check from the fields: what's next?. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2021.25128) 2021.
 
 - **Andrejko K**, Pry JM, Myers JF, Jewell NP, Openshaw J, Watt J, Jain S, **Lewnard JA**. Prevention of COVID-
 19 by mRNA-based vaccines within the general population of California. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciab640) 2021.
