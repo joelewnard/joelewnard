@@ -55,6 +55,7 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### 2021
 
+- **Andrejko K**, **Ratnasiri B**, **Lewnard JA**. Association of pneumococcal serotype with susceptibility to antimicrobial drugs: a systematic review and meta-analysis. [_Clin Infect Dis_](https://doi.org./10.1093/cid/ciab852) 2021.
 
 - Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00393-5) 2021.
   - Accompanying editorial: Li Y, Nair H. How reliable are COVID-19 burden estimates for India?. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00422-9) 2021.
