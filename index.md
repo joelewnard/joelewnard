@@ -57,7 +57,7 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 
 - Laxminarayan R, Mohan BC, Vinay TG, Kumar KVA, Wahl B, **Lewnard JA**. SARS-CoV-2 infection and mortality during the first epidemic wave in Madurai, South India: a prospective, active surveillance study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00393-5) 2021.
- - Accompanying editorial: Li Y, Nair H. How reliable are COVID-19 burden estimates for India?. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00422-9) 2021.
+  - Accompanying editorial: Li Y, Nair H. How reliable are COVID-19 burden estimates for India?. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00422-9) 2021.
 
 - Mora AM, **Lewnard JA**, Kogut K, Rauch SA, Morga N, Hernandez S, Wong MP, Huen K, Chang C, Jewell NP, Holland N, Harris E, Cuevas M, Eskenazi B. Risk factors for SARS-CoV-2 infection among farmworkers in Monterey County, California. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2021.24116) 2021.
   - Accompanying editorial: Aguilar-Gzxiola SA, Ramirez SM, Kissam E. A reality check from the fields: what's next?. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2021.25128) 2021.
