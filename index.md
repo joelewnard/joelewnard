@@ -55,7 +55,7 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### In press
 
-- **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID-19 pandemic in Chennai, India: an observational study. [_Lancet Infect Dis_] 2021; in press.
+- **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID-19 pandemic in Chennai, India: an observational study. _Lancet Infect Dis_ 2021; in press.
 
 ### 2021
 
