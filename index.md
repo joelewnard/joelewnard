@@ -53,6 +53,10 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members are indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
+### In press
+
+- **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID-19 pandemic in Chennai, India: an observational study. [_Lancet Infect Dis_] 2021; in press.
+
 ### 2021
 
 - **Andrejko K**, **Ratnasiri B**, **Lewnard JA**. Association of pneumococcal serotype with susceptibility to antimicrobial drugs: a systematic review and meta-analysis. [_Clin Infect Dis_](https://doi.org./10.1093/cid/ciab852) 2021.
