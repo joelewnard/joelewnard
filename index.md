@@ -57,6 +57,8 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 - **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID-19 pandemic in Chennai, India: an observational study. _Lancet Infect Dis_ 2021; in press.
 
+- **Andrejko K**, Pry J, Myers JF, Openshaw J, Watt J, Birkett N, DeGuzman JL, Barbaduomo CM, Dong ZN, Fang AT, Frost PM, Ho T, Javadi MH, Li SS, Tran VH, Wan C, Jain S, **Lewnard JA**. Predictors of SARS-CoV-2 infection following high-risk exposure. _Clin Infect Dis_ 2021; in press.
+
 ### 2021
 
 - **Andrejko K**, **Ratnasiri B**, **Lewnard JA**. Association of pneumococcal serotype with susceptibility to antimicrobial drugs: a systematic review and meta-analysis. [_Clin Infect Dis_](https://doi.org./10.1093/cid/ciab852) 2021.
