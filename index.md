@@ -60,7 +60,7 @@ Work by current and former members are indicated in **bold** text. Work publishe
 ### 2021
 
 - **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID- 19 pandemic in Chennai, India: an observational study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00746-5) 2021.
-  - Accompanying editorial: [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00767-2) 2021.
+  - Accompanying editorial: Kumar AKA, Mishra N. Mortality during the COVID-19 pandemic: the blind spots in statistics. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00767-2) 2021.
 
 - **Andrejko K**, Pry J, Myers JF, Openshaw J, Watt J, Birkett N, DeGuzman JL, Barbaduomo CM, Dong ZN, Fang AT, Frost PM, Ho T, Javadi MH, Li SS, Tran VH, Wan C, Jain S, **Lewnard JA**. Predictors of SARS-CoV-2 infection following high-risk exposure. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciab1040) 2021.
 
