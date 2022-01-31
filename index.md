@@ -55,9 +55,16 @@ Work by current and former members are indicated in **bold** text. Work publishe
 
 ### In press
 
-- **Lewnard JA**, Bruxvoort KJ, Fischer H, Hong VX, Grant LR, Jodar L, Cane A, Gessner BD, Tartof SY. Effectiveness of 13-valent pneumococcal conjugate vaccine against medically-attended lower respiratory tract infection and pneumonia among older adults. _Clin Infect Dis_ 2021; in press.
+- **Lewnard JA**, Fries LF, Cho I, Chen J, Laxminarayan R. Prevention of antimicrobial prescribing among infants
+following maternal vaccination against respiratory syncytial virus. _Proc Natl Acad Sci U S A_ 2022; in press.
+
+- Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. _Epidemiology_ 2022; in press.
+
+- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator wearing in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. _MMWR_ 2022; in press.
 
 ### 2021
+
+- **Lewnard JA**, Bruxvoort KJ, Fischer H, Hong VX, Grant LR, Jodar L, Cane A, Gessner BD, Tartof SY. Effectiveness of 13-valent pneumococcal conjugate vaccine against medically-attended lower respiratory tract infection and pneumonia among older adults. [_Clin Infect Dis_](https://doi:10.1093/cid/ciab1051) 2021.
 
 - **Lewnard JA**, Mahmud A, Narayan T, Wahl B, Selvavinayagam TS, Mohan C, Laxminarayan R. All-cause mortality during the COVID- 19 pandemic in Chennai, India: an observational study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00746-5) 2021.
   - Accompanying editorial: Kumar AKA, Mishra N. Mortality during the COVID-19 pandemic: the blind spots in statistics. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(21)00767-2) 2021.
