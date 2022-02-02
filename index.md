@@ -51,7 +51,7 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 ## Publications
 
-Work by current and former members are indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
+Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 ### In press
 
@@ -60,7 +60,7 @@ following maternal vaccination against respiratory syncytial virus. _Proc Natl A
 
 - Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. _Epidemiology_ 2022; in press.
 
-- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator wearing in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. _MMWR_ 2022; in press.
+- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. _MMWR_ 2022; in press.
 
 ### 2021
 
