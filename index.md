@@ -62,7 +62,7 @@ following maternal vaccination against respiratory syncytial virus. _Proc Natl A
 
 ### 2022
 
-- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. _MMWR_ 2022; in press.
+- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7106e1) 2022; in press.
 
 ### 2021
 
