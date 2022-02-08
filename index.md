@@ -60,6 +60,8 @@ following maternal vaccination against respiratory syncytial virus. _Proc Natl A
 
 - Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. _Epidemiology_ 2022; in press.
 
+Miller AC, Hannah L, Futoma J, Foti NJ, Fox EB, D'Amour A, Sandler M, Saurous RA, **Lewnard JA**. Statistical deconvolution for inference of infection time series. _Epidemiology_ 2022; in press.
+
 ### 2022
 
 - **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7106e1) 2022; in press.
