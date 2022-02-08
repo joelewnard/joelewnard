@@ -60,7 +60,7 @@ following maternal vaccination against respiratory syncytial virus. _Proc Natl A
 
 - Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. _Epidemiology_ 2022; in press.
 
-Miller AC, Hannah L, Futoma J, Foti NJ, Fox EB, D'Amour A, Sandler M, Saurous RA, **Lewnard JA**. Statistical deconvolution for inference of infection time series. _Epidemiology_ 2022; in press.
+- Miller AC, Hannah L, Futoma J, Foti NJ, Fox EB, D'Amour A, Sandler M, Saurous RA, **Lewnard JA**. Statistical deconvolution for inference of infection time series. _Epidemiology_ 2022; in press.
 
 ### 2022
 
