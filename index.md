@@ -70,7 +70,7 @@ following maternal vaccination against respiratory syncytial virus. [_Proc Natl 
 
 - **Andrejko K**, Head J, **Lewnard JA**, Remais J. Longitudinal social contact patterns among school-aged children during the COVID-19 pandemic: the Bay Area Contacts among Kids (BACK) study. [_BMC Infect Dis_](https://doi.org/10.1186/s12879-022-07218-4) 2022.
 
-- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7106e1) 2022; in press.
+- **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7106e1) 2022.
 
 ### 2021
 
