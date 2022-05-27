@@ -55,9 +55,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. _Epidemiology_ 2022; in press.
-
-- Miller AC, Hannah L, Futoma J, Foti NJ, Fox EB, D'Amour A, Sandler M, Saurous RA, **Lewnard JA**. Statistical deconvolution for inference of infection time series. _Epidemiology_ 2022; in press.
+- **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. _Nature Medicine_ 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.01.11.22269045).
 
 ### 2022
 
@@ -69,6 +67,16 @@ following maternal vaccination against respiratory syncytial virus. [_Proc Natl 
 - **Andrejko K**, Head J, **Lewnard JA**, Remais J. Longitudinal social contact patterns among school-aged children during the COVID-19 pandemic: the Bay Area Contacts among Kids (BACK) study. [_BMC Infect Dis_](https://doi.org/10.1186/s12879-022-07218-4) 2022.
 
 - **Andrejko KL**, Pry JM, Myers JF, Fukui N, DeGuzman JL, Openshaw J, Watt JP, **Lewnard JA**, Jain S. Effectiveness of face mask or respirator use in indoor public settings for prevention of SARS-CoV-2 infection: California, February-December, 2021. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7106e1) 2022.
+
+- Hitchings MT, **Lewnard JA**, Dean NE, Ko AI, Ranzani OT, Andrews JR, Cummings DAT. Use of recently vaccinated individuals to detect bias in test-negative case-control studies of COVID-19 vaccine effectiveness. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000001484) 2022.
+
+- Miller AC, Hannah L, Futoma J, Foti NJ, Fox EB, D'Amour A, Sandler M, Saurous RA, **Lewnard JA**. Statistical deconvolution for inference of infection time series. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000001495) 2022.
+
+- Brennhofer SA, Platts-Mills JA, **Lewnard JA**, Liu J, Houpt ER, Rogawski McQuade ET. Antibiotic use attributable to specific etiologies of diarrhea in children under two years of age in low-resource settings: a secondary analysis of the MAL-ED birth cohort. [_BMJ Open_](https://doi.org/10.1136/bmjopen-2021-058740) 2022.
+
+- Lo NC, **Andrejko K**, Shukla P, **Baker T**, Sawin VI, Norris SL, **Lewnard JA**. Contribution and quality of math- ematical modeling evidence in World Health Organization guidelines: a systematic review. [_Epidemics_](https://doi.org/10.1016/j.epidem.2022.100570) 2022.
+
+- Mora AM, **Lewnard JA**, Kogut K, Rauch S, Morga N, Jewell NP, Cuevas M, Eskenazi B. Impact of the COVID-19 pandemic on California farmworkers’ mental health and food security. [_J Agromedicine_](https://doi.org/10.1080/1059924X.2022.2058664) 2022.
 
 ### 2021
 
