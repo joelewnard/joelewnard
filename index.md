@@ -55,9 +55,11 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. _Nature Medicine_ 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.01.11.22269045).
+- **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with SARS-CoV-2 Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. _Nature Medicine_ 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.01.11.22269045).
 
 ### 2022
+
+- Bruxvoort KJ, **Lewnard JA**, Chen LH, Tseng HF, Chang J, Marrazzo J, Qian L. Prevention of _Neisseria goonorrhoeae_ with meningococcal B vaccine: a matched cohort study in Southern California. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciac436) 2022.
 
 - **Lewnard JA**, Bruxvoort KJ, Hong VX, Grant LR, Jodar L, Cane A, Gessner BD, Tartof SY. Effectiveness of pneumococccal conjugate vaccination against virus-associated lower respiratory tract infection among adults: a case-control study. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiac098) 2022.
 
