@@ -53,11 +53,9 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
-### In press
-
-- **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with SARS-CoV-2 Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. _Nature Medicine_ 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.01.11.22269045).
-
 ### 2022
+
+- **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with SARS-CoV-2 Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. [_Nature Medicine_](https://doi.org/10.1038/s41591-022-01887-z) 2022.
 
 - Bruxvoort KJ, **Lewnard JA**, Chen LH, Tseng HF, Chang J, Marrazzo J, Qian L. Prevention of _Neisseria gonorrhoeae_ with meningococcal B vaccine: a matched cohort study in Southern California. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciac436) 2022.
 
