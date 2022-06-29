@@ -55,6 +55,10 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### 2022
 
+Jewell NP, **Lewnard JA**. On the use of the reproduction number for SARS-CoV-2: Estimation, misinterpretations, and relationships with other ecological measures. [_J Royal Stat Soc A_](https://www.doi.org/10.1111/rssa.12860) 2022.
+
+- Malden DE, Hong VX, Lewin BJ, Ackerson BK, Lipsitch M, **Lewnard JA**, Tartof SY. Hospitalization and Emergency Department Encounters for COVID-19 After Paxlovid Treatment — California, December 2021–May 2022. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7125e2) 2022.
+
 - **Lewnard JA**, Hong VX, Patel MM, Kahn R, Lipsitch M, Tartof SY. Clinical outcomes associated with SARS-CoV-2 Omicron (B.1.1.529) variant and BA.1./BA.1.1 or BA.2 subvariant infection in southern California. [_Nature Medicine_](https://doi.org/10.1038/s41591-022-01887-z) 2022.
 
 - Bruxvoort KJ, **Lewnard JA**, Chen LH, Tseng HF, Chang J, Marrazzo J, Qian L. Prevention of _Neisseria gonorrhoeae_ with meningococcal B vaccine: a matched cohort study in Southern California. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciac436) 2022.
