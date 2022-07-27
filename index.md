@@ -58,7 +58,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. _Am J Epidemiol_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2022.06.03.22275958).
 
-- Adams C, Horton M, Solomon O, Wong MP, Wu SL, Fuller S, Shao X, Fedrigo I, Quach HL, Quach DL, Meas M, Lopez L, Broughton A, Barcellos AL, Shim J, Seymens Y, Hernandez S, Montoya M, Johnsono DM, Beckman KB, Busch MP, Coloma J, **Lewnard JA**, Harris E, Barcellos LF. Health inequities in SARS-CoV-2 infection, seroprevalence, and COVID-19 vaccination: Results from the East Bay COVID-19 study. [_PLoS Global Public Health_] 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2021.12.02.21266871).
+- Adams C, Horton M, Solomon O, Wong MP, Wu SL, Fuller S, Shao X, Fedrigo I, Quach HL, Quach DL, Meas M, Lopez L, Broughton A, Barcellos AL, Shim J, Seymens Y, Hernandez S, Montoya M, Johnsono DM, Beckman KB, Busch MP, Coloma J, **Lewnard JA**, Harris E, Barcellos LF. Health inequities in SARS-CoV-2 infection, seroprevalence, and COVID-19 vaccination: Results from the East Bay COVID-19 study. _PLoS Global Public Health_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2021.12.02.21266871).
 
 ### 2022
 
