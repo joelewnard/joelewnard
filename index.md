@@ -58,7 +58,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. _Am J Epidemiol_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2022.06.03.22275958).
 
-- **Linde LR**, Readhead A, Barry PM, Balmes JR, **Lewnard JA**. Tuberculosis diagnoses following wildfire smoke exposure in California. [_Am J Resp Crit Care Med_] 2022 (in press).
+- **Linde LR**, Readhead A, Barry PM, Balmes JR, **Lewnard JA**. Tuberculosis diagnoses following wildfire smoke exposure in California. _Am J Resp Crit Care Med_ 2022 (in press).
 
 ### 2022
 
