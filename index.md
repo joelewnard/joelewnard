@@ -58,9 +58,13 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. _Am J Epidemiol_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2022.06.03.22275958).
 
-- Adams C, Horton M, Solomon O, Wong MP, Wu SL, Fuller S, Shao X, Fedrigo I, Quach HL, Quach DL, Meas M, Lopez L, Broughton A, Barcellos AL, Shim J, Seymens Y, Hernandez S, Montoya M, Johnsono DM, Beckman KB, Busch MP, Coloma J, **Lewnard JA**, Harris E, Barcellos LF. Health inequities in SARS-CoV-2 infection, seroprevalence, and COVID-19 vaccination: Results from the East Bay COVID-19 study. _PLoS Global Public Health_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2021.12.02.21266871).
+- **Linde LR**, Readhead A, Barry PM, Balmes JR, **Lewnard JA**. Tuberculosis diagnoses following wildfire smoke exposure in California. [_Am J Resp Crit Care Med_] 2022 (in press).
 
 ### 2022
+
+- Rogawski McQuade ET,  Brennhofer SA,  Elwood SE,  McMurry TL,  **Lewnard JA**,  Mduma E,  Shrestha S,  Iqbal N,  Bessong PO,  Kang G,  Kosek M,  Lima AAM,  Amhed T,  Liu J,  Houpt E,  Platts-Mills JA.  Frequency of bystander exposure to antibiotics for enteropathogenic bacteria among young children in low-resource settings. [_Proc Natl Acad Sci U S A_](https://doi.org/10.1073/pnas.2208972119) 2022.
+
+- Adams C, Horton M, Solomon O, Wong MP, Wu SL, Fuller S, Shao X, Fedrigo I, Quach HL, Quach DL, Meas M, Lopez L, Broughton A, Barcellos AL, Shim J, Seymens Y, Hernandez S, Montoya M, Johnsono DM, Beckman KB, Busch MP, Coloma J, **Lewnard JA**, Harris E, Barcellos LF. Health inequities in SARS-CoV-2 infection, seroprevalence, and COVID-19 vaccination: Results from the East Bay COVID-19 study. [_PLoS Global Public Health_](https://doi.org/10.1371/journal.pgph.0000647) 2022.
 
 - Jewell NP, **Lewnard JA**. On the use of the reproduction number for SARS-CoV-2: Estimation, misinterpretations, and relationships with other ecological measures. [_J Royal Stat Soc A_](https://www.doi.org/10.1111/rssa.12860) 2022.
 
