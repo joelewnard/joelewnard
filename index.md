@@ -20,6 +20,12 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - _Computational biology PhD Student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
+- Signe Mogelmose
+  - Visiting PhD student from Hasselt University, Belgiuum
+
+- Desta Gemeda
+  - Visting PhD student from Jimma University, Ethiopia (CEGA Fellow)
+
 ### Alumni and placements at graduation
 
 - Kristin Andrejko
