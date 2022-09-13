@@ -12,10 +12,6 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - Postdoc, Harvard TH Chan School of Public Health (laboratory of Marc Lipsitch), 2018
   - PhD, Epidemiology of Microbial Diseases, Yale University, 2017
   - BA Hons., Geography and Music, McGill University, 2013
-  
-
-- Kristin Andrejko
-  - _Epidemiology PhD Student_
 
 - Laura King
   - _Epidemiology PhD Student_
@@ -24,26 +20,31 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - _Computational biology PhD Student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
-- Tess Baker
-  - _Epidemiology & Biostats MPH student_
+### Alumni and placements at graduation
 
-### Alumni
+- Kristin Andrejko
+  - _Epidemiology PhD (2022)_
+  - Now Epidemiologist, Division of Bacterial Diseases at CDC
+
+- Tess Baker
+  - _Epidemiology & Biostats MPH (2022)_
+  - Research Analyst at Kaiser Permanente
 
 - Nick Murdock
-  - _Epidemiology & Biostats MPH student_
-  - Now Research Associate at [The HIV Forum](https://forumresearch.org/hiv-forum/hiv-overview)
+  - _Epidemiology & Biostats MPH (2021)_
+  - Research Associate at [The HIV Forum](https://forumresearch.org/hiv-forum/hiv-overview)
 
 - Tyler Chervo
-  - _Infectious Diseases & Vaccinology MPH student_
-  - Now Research Analyst at Kaiser Permanente
+  - _Infectious Diseases & Vaccinology MPH (2021)_
+  - Research Analyst at Kaiser Permanente
 
 - Lauren Linde
-  - _Epidemiology & Biostats MPH student (2020)_
-  - Now Epidemiologist at California Department of Public Health
+  - _Epidemiology & Biostats MPH (2020)_
+  - Epidemiologist at CDC
 
 - Buddhika Ratnasiri
   - _Undergraduate Honors student (2020)_ 
-  - Now Clinical Research Coordinator at UCSF
+  - Clinical Research Coordinator at UCSF
 
 ## Recruitment ##
 
