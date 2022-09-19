@@ -65,9 +65,11 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. _Am J Epidemiol_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2022.06.03.22275958).
 
-- **Linde LR**, Readhead A, Barry PM, Balmes JR, **Lewnard JA**. Tuberculosis diagnoses following wildfire smoke exposure in California. _Am J Resp Crit Care Med_ 2022 (in press).
+- Cheng Q, Collender P, Heaney A, McLoughlin A, Yang Y, Zhang Y, Head J, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang H, Waller L, Zelner J, **Lewnard JA**, Remais J. Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. _PLoS Comp Biol_ 2022 (in press).
 
 ### 2022
+
+- **Linde LR**, Readhead A, Barry PM, Balmes JR, **Lewnard JA**. Tuberculosis diagnoses following wildfire smoke exposure in California. [_Am J Resp Crit Care Med_](https://doi.org/10.1164/rccm.202203-0457OC) 2022.
 
 - Rogawski McQuade ET,  Brennhofer SA,  Elwood SE,  McMurry TL,  **Lewnard JA**,  Mduma E,  Shrestha S,  Iqbal N,  Bessong PO,  Kang G,  Kosek M,  Lima AAM,  Amhed T,  Liu J,  Houpt E,  Platts-Mills JA.  Frequency of bystander exposure to antibiotics for enteropathogenic bacteria among young children in low-resource settings. [_Proc Natl Acad Sci U S A_](https://doi.org/10.1073/pnas.2208972119) 2022.
 
