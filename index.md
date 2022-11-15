@@ -14,10 +14,13 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - BA Hons., Geography and Music, McGill University, 2013
 
 - Laura King
-  - _Epidemiology PhD Student_
+  - _Epidemiology PhD student_
+
+- Anna Parker
+  - _Epidemiology PhD student_
 
 - Graham Northrup
-  - _Computational biology PhD Student_
+  - _Computational biology PhD student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
 - Signe Mogelmose
@@ -25,6 +28,9 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 
 - Desta Gemeda
   - Visting PhD student from Jimma University, Ethiopia (CEGA Fellow)
+
+- Sam Holland
+  - MPH student
 
 ### Alumni and placements at graduation
 
