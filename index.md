@@ -23,12 +23,6 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - _Computational biology PhD student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
-- Signe Mogelmose
-  - Visiting PhD student from Hasselt University, Belgiuum
-
-- Desta Gemeda
-  - Visting PhD student from Jimma University, Ethiopia (CEGA Fellow)
-
 - Sam Holland
   - MPH student
 
@@ -69,13 +63,19 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. _Am J Epidemiol_ 2022 (in press). Pre-print from [_medRxiv_](https://www.doi.org/10.1101/2022.06.03.22275958).
+- **Andrejko KL**, Myers JF,  **Fukui N**,  Nelson L,  Zhao R,  Openshaw J,  Watt JP,  Jain S,  **Lewnard JA**,  Pry JM.  Real-world uptake of COVID-19 vaccination among individuals expressing vaccine hesitancy: a registry-linkage study. _Vaccine_ 2023 (in press); Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.08.02.22278300).
 
-- **Parker AM**, Jackson N, Awasthi S, Kim H, Alwan T, Wyllie AL, Baldwin AB, Brennick NB, Moehle AEA, Giannikopoulos P, Kogut K, Holland N, Mora-Wyrobek A, Eskenazi B, Riley LW, **Lewnard JA**. Association of upper respiratory Streptococcus pneumoniae colonization with SARS-CoV-2 infection among adults. [_Clin Infect Dis_] 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.10.04.22280709).
+### 2023
 
-- Tan ST, Kwan AT, Rodriguez-Barraquer I, Singer BJ, Park HJ, **Lewnard JA**, Sears D, Lo NC. Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave. [_Nature Medicine_] 2022 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.08.08.22278547).
+- **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwad017) 2022.
+
+- **King LM**, **Lewnard JA**, Niccolai LM. Clinical and public health considerations for HPV vaccination in mid-adulthood: a narrative review. [_Open Forum Infect Dis_](https://doi.org/10.1093/ofid/ofad004) 2023.
+
+- Tan ST, Kwan AT, Rodriguez-Barraquer I, Singer BJ, Park HJ, **Lewnard JA**, Sears D, Lo NC. Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave. [_Nature Medicine_](https://doi.org/10.1038/s41591-022-02138-x) 2023.
 
 ### 2022
+
+- **Parker AM**, Jackson N, Awasthi S, Kim H, Alwan T, Wyllie AL, Baldwin AB, Brennick NB, Moehle AEA, Giannikopoulos P, Kogut K, Holland N, Mora-Wyrobek A, Eskenazi B, Riley LW, **Lewnard JA**. Association of upper respiratory Streptococcus pneumoniae colonization with SARS-CoV-2 infection among adults. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciac907) 2022.
 
 - Cheng Q, Collender P, Heaney A, McLoughlin A, Yang Y, Zhang Y, Head J, Dasan R, Liang S, Lv Q, Liu Y, Yang C, Chang H, Waller L, Zelner J, **Lewnard JA**, Remais J. Optimizing laboratory-based surveillance networks for monitoring multi-genotype or multi-serotype infections. [_PLoS Comp Biol_](https://doi.org/10.1371/journal.pcbi.1010575) 2022.
 
