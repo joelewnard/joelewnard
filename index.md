@@ -63,6 +63,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir against hospital admission or death: a cohort study in a large US healthcare system. _Lancet Infect Dis_ 2023 (in press); Pre-print from [_medrxiv_](https://doi.org/10.1101/2022.10.02.22280623).
+
 - **Andrejko KL**, Myers JF,  **Fukui N**,  Nelson L,  Zhao R,  Openshaw J,  Watt JP,  Jain S,  **Lewnard JA**,  Pry JM.  Real-world uptake of COVID-19 vaccination among individuals expressing vaccine hesitancy: a registry-linkage study. _Vaccine_ 2023 (in press); Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.08.02.22278300).
 
 ### 2023
