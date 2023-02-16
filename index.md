@@ -65,9 +65,12 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir against hospital admission or death: a cohort study in a large US healthcare system. _Lancet Infect Dis_ 2023 (in press); Pre-print from [_medrxiv_](https://doi.org/10.1101/2022.10.02.22280623).
 
-- **Andrejko KL**, Myers JF,  **Fukui N**,  Nelson L,  Zhao R,  Openshaw J,  Watt JP,  Jain S,  **Lewnard JA**,  Pry JM.  Real-world uptake of COVID-19 vaccination among individuals expressing vaccine hesitancy: a registry-linkage study. _Vaccine_ 2023 (in press); Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.08.02.22278300).
+- **Lewnard JA**, Hong V, Kim JS, Shaw SS, Lewin B, Takhar H, Tartof, SY. Asociation of SARS-CoV-2 BA.4/BA.5 Omicron lineages with immune escape and clinical outcome. _Nature Communications_ 2023 (in press); Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.07.31.22278258).
+
 
 ### 2023
+
+- **Andrejko KL**, Myers JF,  **Fukui N**,  Nelson L,  Zhao R,  Openshaw J,  Watt JP,  Jain S,  **Lewnard JA**,  Pry JM.  Real-world uptake of COVID-19 vaccination among individuals expressing vaccine hesitancy: a registry-linkage study. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2023.01.066) 2023.
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwad017) 2022.
 
