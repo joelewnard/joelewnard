@@ -72,6 +72,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Andrejko KL**, Pry JM*, Myers JF, Mehrotra M, Lambda K, Lim E, **Fukui N**, **DeGuzman JL**, Openshaw J, Watt J, Jain S, **Lewnard JA**. Waning of two-dose BNT162b2 and mRNA-1273 vaccine effectiveness against symptomatic SARS-CoV-2 infection is robust to depletion-of-susceptibles bias. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwad017) 2022.
 
+- **Andrejko KL**, Myers JM, Openshaw J, **Fukui N**, **Li S**, Watt JP, Murray EL, Hoover C, **Lewnard JA**, Jain S, Pry JM. Receipt of COVID-19 and seasonal influenza vaccines in California (USA) during the 2021–2022 influenza season. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2022.12.052) 2023.
+
 - **King LM**, **Lewnard JA**, Niccolai LM. Clinical and public health considerations for HPV vaccination in mid-adulthood: a narrative review. [_Open Forum Infect Dis_](https://doi.org/10.1093/ofid/ofad004) 2023.
 
 - Tan ST, Kwan AT, Rodriguez-Barraquer I, Singer BJ, Park HJ, **Lewnard JA**, Sears D, Lo NC. Infectiousness of SARS-CoV-2 breakthrough infections and reinfections during the Omicron wave. [_Nature Medicine_](https://doi.org/10.1038/s41591-022-02138-x) 2023.
