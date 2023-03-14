@@ -61,14 +61,12 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 
-### In press
-
-- **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir against hospital admission or death: a cohort study in a large US healthcare system. _Lancet Infect Dis_ 2023 (in press); Pre-print from [_medrxiv_](https://doi.org/10.1101/2022.10.02.22280623).
-
-- **Lewnard JA**, Hong V, Kim JS, Shaw SS, Lewin B, Takhar H, Tartof, SY. Asociation of SARS-CoV-2 BA.4/BA.5 Omicron lineages with immune escape and clinical outcome. _Nature Communications_ 2023 (in press); Pre-print from [_medRxiv_](https://doi.org/10.1101/2022.07.31.22278258).
-
 
 ### 2023
+
+- **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir in preventing hospital admissions or deaths in people with COVID-19: a cohort study in a large US healthcare system. [_Lancet Infect Dis_](https://doi.org/10.1061/S1473-3099(23)00118-4) 2023.
+
+- **Lewnard JA**, Hong V, Kim JS, Shaw SS, Lewin B, Takhar H, Tartof, SY. Asociation of SARS-CoV-2 BA.4/BA.5 Omicron lineages with immune escape and clinical outcome. [_Nature Communications_](https://doi.org/10.1038/s41467-023-37051-5) 2023.
 
 - **Andrejko KL**, Myers JF,  **Fukui N**,  Nelson L,  Zhao R,  Openshaw J,  Watt JP,  Jain S,  **Lewnard JA**,  Pry JM.  Real-world uptake of COVID-19 vaccination among individuals expressing vaccine hesitancy: a registry-linkage study. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2023.01.066) 2023.
 
