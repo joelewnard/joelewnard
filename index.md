@@ -60,7 +60,11 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
+### In press
 
+- **Lewnard JA**, Hong V, Bruxvoort KJ, Grant LR, Jodar L, Cane A, Arguedas A, Pomichowski ME, Gessner BD, Tartof SY. Burden of lower respiratory tract infections preventable by adult immunization with 15- and 20-valent pneumococcal conjugate vaccines in the United States. _Clin Infect Dis_ (in press) 2023.
+
+- **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. _Nature Communications_ (in press) 2023.
 
 ### 2023
 
