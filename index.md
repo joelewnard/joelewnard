@@ -62,11 +62,11 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Lewnard JA**, Hong V, Bruxvoort KJ, Grant LR, Jodar L, Cane A, Arguedas A, Pomichowski ME, Gessner BD, Tartof SY. Burden of lower respiratory tract infections preventable by adult immunization with 15- and 20-valent pneumococcal conjugate vaccines in the United States. _Clin Infect Dis_ (in press) 2023.
-
 - **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. _Nature Communications_ (in press) 2023.
 
 ### 2023
+
+- **Lewnard JA**, Hong V, Bruxvoort KJ, Grant LR, Jodar L, Cane A, Arguedas A, Pomichowski ME, Gessner BD, Tartof SY. Burden of lower respiratory tract infections preventable by adult immunization with 15- and 20-valent pneumococcal conjugate vaccines in the United States. [_Clin Infect Dis_]( https://doi.org/10.1093/cid/ciad355) 2023.
 
 - **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir in preventing hospital admissions or deaths in people with COVID-19: a cohort study in a large US healthcare system. [_Lancet Infect Dis_](https://doi.org/10.1061/S1473-3099(23)00118-4) 2023.
 
