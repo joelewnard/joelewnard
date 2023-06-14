@@ -71,6 +71,8 @@ of an emerging SARS-CoV-2 variant. _Nature Communications_ (in press) 2023. Pre-
 
 - **Lewnard JA**, Hong V, Bruxvoort KJ, Grant LR, Jodar L, Cane A, Arguedas A, Pomichowski ME, Gessner BD, Tartof SY. Burden of lower respiratory tract infections preventable by adult immunization with 15- and 20-valent pneumococcal conjugate vaccines in the United States. [_Clin Infect Dis_]( https://doi.org/10.1093/cid/ciad355) 2023.
 
+- Kumar CK, Sands K, Walsh TR, O’Brien S, Sharland M, **Lewnard JA**, Hu H, Srikantiah P, Laxminarayan R. Global, regional, and national estimates of the impact of a maternal _Klebsiella pneumoniae_ vaccine: a Bayesian modeling analysis. [_PLoS Med_](https://doi.org/10.1371/journal.pmed.1004239) 2023.
+
 - **Lewnard JA**, McLaughlin JM, Malden D, Hong V, Puzniak L, Ackerson BK, Lewin BJ, Kim JS, Shaw SF, Takhar H, Jodar L, Tartof SY. Effectiveness of nirmatrelvir-ritonavir in preventing hospital admissions or deaths in people with COVID-19: a cohort study in a large US healthcare system. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(23)00118-4) 2023.
    - Accompanying editorial: Molina KC, Ginde AA. Real-world use of nirmatrelvir-ritonavir: who benefits?. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(23)00180-9) 2023.
 
