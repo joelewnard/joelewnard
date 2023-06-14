@@ -62,6 +62,9 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- **Lewnard JA**, Hong V, Kim JS, Shaw SF, Lewin B, Takhar H, Lipsitch M, Tartof SY. Increased vaccine sensitivity
+of an emerging SARS-CoV-2 variant. _Nature Communications_ (in press) 2023. Pre-print from [_medrxiv_](https://doi.org/10.1101/2023.03.11.23287148).
+
 - **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. _Nature Communications_ (in press) 2023.
 
 ### 2023
