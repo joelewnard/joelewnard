@@ -65,9 +65,11 @@ Work by current and former members is indicated in **bold** text. Work published
 - **Lewnard JA**, Hong V, Kim JS, Shaw SF, Lewin B, Takhar H, Lipsitch M, Tartof SY. Increased vaccine sensitivity
 of an emerging SARS-CoV-2 variant. _Nature Communications_ (in press) 2023. Pre-print from [_medrxiv_](https://doi.org/10.1101/2023.03.11.23287148).
 
-- **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. _Nature Communications_ (in press) 2023.
-
 ### 2023
+
+- **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. [_Nature Communications_](https://doi.org/10.1038/s41467-023-39322-7) 2023.
+
+- Dalto AF, Diallo O, Chard AN, Moulia DL, Fothergill A, Kracalik I, Wegner CW, Markus TM, Pathela P, Still WL, Hawkins S, Mangla AT, Ravi N, Licherdell E, Britton A, Lynfield R, Sutton M, Hansen AP, Betancourt GS, Rowlands JV, Chai SJ, Fisher R, Danza P, Farley M, Zipprich J, Prahl G, Wendel KA, Niccolai L, Castilho JL, Payne DC, Cohn AC, Feldstein LR, **CDC Multijurisdictional Mpox Case-Control Study**. Estimated effectiveness of JYNNEOS vaccine in preventing mpox: a multijurisdictional case-control study, United States, August 19, 2022–March 31, 2023. [_MMWR_](http://dx.doi.org/10.15585/mmwr.mm7220a3) 2023.
 
 - **Lewnard JA**, Hong V, Bruxvoort KJ, Grant LR, Jodar L, Cane A, Arguedas A, Pomichowski ME, Gessner BD, Tartof SY. Burden of lower respiratory tract infections preventable by adult immunization with 15- and 20-valent pneumococcal conjugate vaccines in the United States. [_Clin Infect Dis_]( https://doi.org/10.1093/cid/ciad355) 2023.
 
