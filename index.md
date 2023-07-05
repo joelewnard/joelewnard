@@ -7,7 +7,8 @@ Our work has centered on pediatric infectious diseases and vaccines against them
 ## People ##
 
 - Joe Lewnard (PI)
-  - Assistant Professor of Epidemiology, UC Berkeley School of Public Health, 2018--
+  - Associate Professor with Tenure, Division of Epidemiology, UC Berkeley School of Public Health, 2023--
+  - Assistant Professor, Division of Epidemiology, UC Berkeley School of Public Health, 2018--23
   - Core Member, Center for Computational Biology, UC Berkeley College of Engineering, 2018--
   - Postdoc, Harvard TH Chan School of Public Health (laboratory of Marc Lipsitch), 2018
   - PhD, Epidemiology of Microbial Diseases, Yale University, 2017
