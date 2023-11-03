@@ -64,10 +64,16 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Lewnard JA**, Hong V, Kim JS, Shaw SF, Lewin B, Takhar H, Lipsitch M, Tartof SY. Increased vaccine sensitivity
-of an emerging SARS-CoV-2 variant. _Nature Communications_ (in press) 2023. Pre-print from [_medrxiv_](https://doi.org/10.1101/2023.03.11.23287148).
+- Brennhofer SA, Platts-Mills JA, **Lewnard JA**, Houpt ER, Rogawski McQuade ET. Burden of diarrhea and antibiotic use among children in low-resource settings preventable by _Shigella_ vaccination: a simulation study. _PLoS Med_ 2023 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2023.07.03.23292159).
 
 ### 2023
+
+- Snyder RE, Saadeh K, Tang EC, Johnson KA, **Holland SN**, Qint J, Burghardt NO, Chai SJ, Fernando R, Gonzalez Barrera K, Hernandez C, **McManus K**, **Lorenz K**, **Maycott J**, **McGinley J**, **Lewnard JA**. Sexual exposures associated with mpox infection: California, November 2022 to June 2023. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiad447) 2023.
+
+- Bruxvoort KJ, Fischer H, **Lewnard JA**, Hong V, Pomichowski M, Grant LR, Jodar L, Gessner BD, Tartof SY. Risk of subsequent lower respiratory tract infection (LRTI) after hospitalization for COVID-19 LRTI and non-COVID-19 LRTI: a retrospective cohort study. [_Pneumonia_](https://link.springer.com/article/10.1186/s41479-023-00117-5) 2023.
+
+- **Lewnard JA**, Hong V, Kim JS, Shaw SF, Lewin B, Takhar H, Lipsitch M, Tartof SY. Increased vaccine sensitivity
+of an emerging SARS-CoV-2 variant. [_Nature Communications_](https://www.nature.com/articles/s41467-023-39567-2) 2023.
 
 - **Lewnard JA**, Mohan BC, Kang G, Laxminarayan R. Attributed causes of excess mortality during the COVID-19 pandemic in a south Indian city. [_Nature Communications_](https://doi.org/10.1038/s41467-023-39322-7) 2023.
 
