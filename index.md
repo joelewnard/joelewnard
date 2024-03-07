@@ -27,6 +27,9 @@ My work has centered on pediatric infectious diseases and vaccines against them,
   - _Computational biology PhD student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
+- Chungman Chae
+  - _Epidemiology PhD student_
+
 - Lauren Granskog
   - _Infectious disease and vaccinology MPH student_
 
