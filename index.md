@@ -64,6 +64,12 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- **Lewnard JA**, Charani E, Gleason A, Hsu LY, Khan WA, Karkey A, Chandler CIR, Mashe T, Khan EA, Bulabula ANH, Donado-Godoy P, Laxminarayan R. Burden of bacterial antimicrobial resistance in low- and middle-income countries avertible by existing interventions: an evidence review and modeling analysis. _Lancet_ 2024 (in press).
+
+- **King LM**, Andrejko KL, Kabbani S, Tartof SY, Hicks LA, Cohen AL, Kobayashi M, **Lewnard JA**. Pediatric outpatient visits and antibiotic use due to higher-valency pneumococcal vaccine serotypes. _J Infect Dis_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2023.08.24.23294570).
+
+- Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population- level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
+
 - Brennhofer SA, Platts-Mills JA, **Lewnard JA**, Houpt ER, Rogawski McQuade ET. Burden of diarrhea and antibiotic use among children in low-resource settings preventable by _Shigella_ vaccination: a simulation study. _PLoS Med_ 2023 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2023.07.03.23292159).
 
 ### 2023
