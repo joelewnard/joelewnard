@@ -85,9 +85,9 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population- level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
 
-- Brennhofer SA, Platts-Mills JA, **Lewnard JA**, Houpt ER, Rogawski McQuade ET. Burden of diarrhea and antibiotic use among children in low-resource settings preventable by _Shigella_ vaccination: a simulation study. _PLoS Med_ 2023 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2023.07.03.23292159).
-
 ### 2023
+
+- Brennhofer SA, Platts-Mills JA, **Lewnard JA**, Houpt ER, Rogawski McQuade ET. Burden of diarrhea and antibiotic use among children in low-resource settings preventable by _Shigella_ vaccination: a simulation study. [_PLoS Med_](https://doi.org/10.1371/journal.pmed.1004271) 2023
 
 - Snyder RE, Saadeh K, Tang EC, Johnson KA, **Holland SN**, Qint J, Burghardt NO, Chai SJ, Fernando R, Gonzalez Barrera K, Hernandez C, **McManus K**, **Lorenz K**, **Maycott J**, **McGinley J**, **Lewnard JA**. Sexual exposures associated with mpox infection: California, November 2022 to June 2023. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiad447) 2023.
 
