@@ -1,8 +1,10 @@
 # Lewnard group at the University of California, Berkeley
 
-We study the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology](https://ccb.berkeley.edu/) at UC Berkeley.
+My group studies the natural history, transmission dynamics, and control of infectious diseases in the [School of Public Health](https://publichealth.berkeley.edu/) and the [Center for Computational Biology](https://ccb.berkeley.edu/) at UC Berkeley.
 
-Our work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), rotavirus, and group A _Streptococcus_. We are also interested in statistical methods for vaccine efficacy and effectiveness studies. We have redirected substantial effort to COVID-19 in the ongoing pandemic.
+In collaboration with Dr. Sara Tartof at Kaiser Permanente Southern California, I co-lead the California Center for Outbreak Response, a Center for Innovation within CDC's [InsightNet](https://www.cdc.gov/forecast-outbreak-analytics/partners/insightnet/index.html) network for outbreak analytics and infectious disease modeling.
+
+My work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), COVID-19, RSV, and group A _Streptococcus_. I am also interested in statistical methods for vaccine efficacy and effectiveness studies. 
 
 ## People ##
 
@@ -25,14 +27,24 @@ Our work has centered on pediatric infectious diseases and vaccines against them
   - _Computational biology PhD student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
 
-- Sam Holland
-  - MPH student
+- Lauren Granskog
+  - _Infectious disease and vaccinology MPH student_
+
+- Kieran Lorenz
+  - _Epidemiology MPH student_
+
+- Jarett Maycott
+  - _Epidemiology MPH student_
 
 ### Alumni and placements at graduation
 
+- Sam Holland
+  - _MPH student (2023)_
+  - CalEIS Fellow, California Department of Public Health
+
 - Kristin Andrejko
   - _Epidemiology PhD (2022)_
-  - Now Epidemiologist, Division of Bacterial Diseases at CDC
+  - Epidemiologist, Division of Bacterial Diseases at CDC
 
 - Tess Baker
   - _Epidemiology & Biostats MPH (2022)_
