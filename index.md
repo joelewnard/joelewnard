@@ -46,16 +46,28 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 
 - Jarett Maycott
   - _Epidemiology MPH student_
+ 
+- Justin Nguyen
+  - _Epidemiology MPH student_
+ 
+- Noah Parker
+  - _Epidemiology MPH student_
 
-### Alumni and placements at graduation
-
-- Sam Holland
-  - _MPH student (2023)_
-  - CalEIS Fellow, California Department of Public Health
+### Alumni and most recent placement information
 
 - Kristin Andrejko
   - _Epidemiology PhD (2022)_
   - Epidemiologist, Division of Bacterial Diseases at CDC
+
+- Sam Holland
+  - _MPH student (2023)_
+  - CalEIS Fellow, California Department of Public Health
+  - PhD student in Epidemiology, UCLA
+ 
+- Lauren Linde
+  - _Epidemiology & Biostats MPH (2020)_
+  - Epidemiologist at CDC
+  - PhD student in Epidemiology, Boston University
 
 - Tess Baker
   - _Epidemiology & Biostats MPH (2022)_
@@ -68,10 +80,6 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Tyler Chervo
   - _Infectious Diseases & Vaccinology MPH (2021)_
   - Research Analyst at Kaiser Permanente
-
-- Lauren Linde
-  - _Epidemiology & Biostats MPH (2020)_
-  - Epidemiologist at CDC
 
 - Buddhika Ratnasiri
   - _Undergraduate Honors student (2020)_ 
