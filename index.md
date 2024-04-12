@@ -30,6 +30,14 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Chungman Chae
   - _Epidemiology PhD student_
 
+- Karissa Huang
+  - _Statistics PhD student_
+  - Co-supervised with Jennifer Chayes
+ 
+- Daniela Rodriguez-Chevez
+  - _Environmental Science, Policy, and Management PhD student_
+  - Co-supervised with Perry deValpine
+
 - Lauren Granskog
   - _Infectious disease and vaccinology MPH student_
 
@@ -81,9 +89,17 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Lewnard JA**, Charani E, Gleason A, Hsu LY, Khan WA, Karkey A, Chandler CIR, Mashe T, Khan EA, Bulabula ANH, Donado-Godoy P, Laxminarayan R. Burden of bacterial antimicrobial resistance in low- and middle-income countries avertible by existing interventions: an evidence review and modeling analysis. _Lancet_ 2024 (in press).
 
-- **King LM**, Andrejko KL, Kabbani S, Tartof SY, Hicks LA, Cohen AL, Kobayashi M, **Lewnard JA**. Pediatric outpatient visits and antibiotic use due to higher-valency pneumococcal vaccine serotypes. _J Infect Dis_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2023.08.24.23294570).
+- Mendelson M, **Lewnard JA**, Sharland M, Cook A, Pouwels KB, Alimi W, Mpundu M, Wesangula E, Weese JS, Rottingen JA, Laxminarayan R. Ensuring progress on sustainable access to effective antibiotics at UNGA 2024: a target-based approach. _Lancet_ 2024 (in press).
 
-- Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population- level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
+- Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population-level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
+
+### 2024
+
+- **King LM**, Andrejko KL, Kabbani S, Tartof SY, Hicks LA, Cohen AL, Kobayashi M, **Lewnard JA**. Pediatric outpatient visits and antibiotic use due to higher-valency pneumococcal vaccine serotypes. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiae142) 2024. 
+
+- Archer H, McCoy SI, Sears D, Kwan A, Kuersten M, **Lewnard JA**, Bertozzi SM. Indirect vaccine effectiveness in an outbreak of Alpha B.1.1.7 variant in a California state prison, May, 2021. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2024.03.062) 2024.
+
+- Malden DE, McLaughlin JM, Hong V, **Lewnard JA**, Ackerson BK, Puzniak L, Kim JS, Takhar H, Frankland TB, Slezak JM, Tartof SY. Predictors of nirmatrelvir-ritonavir receipt among COVID-19 patients in a large US health system. [_Sci Rep_](https://doi.org/10.1038/s41598-024-57633-7) 2024.
 
 ### 2023
 
