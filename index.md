@@ -23,6 +23,9 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Anna Parker
   - _Epidemiology PhD student_
 
+- Nancy Li
+  - _Epidemiology PhD student_
+
 - Graham Northrup
   - _Computational biology PhD student_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
