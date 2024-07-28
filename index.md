@@ -109,7 +109,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - Mendelson M, **Lewnard JA**, Sharland M, Cook A, Pouwels KB, Alimi W, Mpundu M, Wesangula E, Weese JS, Rottingen JA, Laxminarayan R. Ensuring progress on sustainable access to effective antibiotics at UNGA 2024: a target-based approach. [_Lancet_](https://doi.org/10.1016/S0140-6736(24)01019-5) 2024.
 
-- Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population-level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
+- Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population-level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2024.7822) 2024.
 
 - **King LM**, Andrejko KL, Kabbani S, Tartof SY, Hicks LA, Cohen AL, Kobayashi M, **Lewnard JA**. Pediatric outpatient visits and antibiotic use due to higher-valency pneumococcal vaccine serotypes. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiae142) 2024. 
 
