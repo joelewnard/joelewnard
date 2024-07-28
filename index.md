@@ -26,12 +26,15 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Nancy Li
   - _Epidemiology PhD student_
 
-- Graham Northrup
+- Philip Lee
   - _Computational biology PhD student_
-  - Co-supervised with [Mike Boots](https://bootslab.org/)
 
 - Chungman Chae
   - _Epidemiology PhD student_
+
+- Graham Northrup
+  - _Computational biology PhD student_
+  - Co-supervised with [Mike Boots](https://bootslab.org/)
 
 - Karissa Huang
   - _Statistics PhD student_
@@ -96,15 +99,17 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
-### In press
+### 2024
 
-- **Lewnard JA**, Charani E, Gleason A, Hsu LY, Khan WA, Karkey A, Chandler CIR, Mashe T, Khan EA, Bulabula ANH, Donado-Godoy P, Laxminarayan R. Burden of bacterial antimicrobial resistance in low- and middle-income countries avertible by existing interventions: an evidence review and modeling analysis. _Lancet_ 2024 (in press).
+- **Parker AM**, Jackson N, Awasthi S, Kim H, Alwan T, Wyllie AL, Kogut K, Holland N, Mora AM, Eskenazi B, Riley LW, **Lewnard JA**. Upper respiratory _Streptococcus pneumoniae_ colonization among working-age adults with prevalent exposure to overcrowding. [_Microbiol Spectrum_](https://doi.org/10.1128/spectrum.00879-24) 2024.
 
-- Mendelson M, **Lewnard JA**, Sharland M, Cook A, Pouwels KB, Alimi W, Mpundu M, Wesangula E, Weese JS, Rottingen JA, Laxminarayan R. Ensuring progress on sustainable access to effective antibiotics at UNGA 2024: a target-based approach. _Lancet_ 2024 (in press).
+- **Lewnard JA**, Charani E, Gleason A, Hsu LY, Khan WA, Karkey A, Chandler CIR, Mashe T, Khan EA, Bulabula ANH, Donado-Godoy P, Laxminarayan R. Burden of bacterial antimicrobial resistance in low- and middle-income countries avertible by existing interventions: an evidence review and modeling analysis. [_Lancet_](https://doi.org/10.1016/S0140-6736(24)00862-6) 2024.
+   - Accompanying editorial: Shamas N, Kariuki J, Balasa E, Kinamon T, Liauw F, Charles S, Jaka B, Purdie R, Chavan B, Lawal MO, Darcovich A, Carter V. Antimicrobial resistance survivors: calling the world to action. [_Lancet_](https://doi.org/10.1016/S0140-6736(24)01030-4) 2024.
+   - Accompanying editorial: _The Lancet_ Editorial Board. Antimicrobial resistance: an agenda for all. [_Lancet_](https://doi.org/10.1016/S0140-6736(24)01076-6) 2024.
+
+- Mendelson M, **Lewnard JA**, Sharland M, Cook A, Pouwels KB, Alimi W, Mpundu M, Wesangula E, Weese JS, Rottingen JA, Laxminarayan R. Ensuring progress on sustainable access to effective antibiotics at UNGA 2024: a target-based approach. [_Lancet_](https://doi.org/10.1016/S0140-6736(24)01019-5) 2024.
 
 - Head J, Collender PA, Leon TM, White LA, Sud SR, Camponuri SK, Lee V, **Lewnard JA**, Remais JV. Population-level impact of COVID-19 vaccines on pediatric incidence and hospitalization in California. _JAMA Netw Open_ 2024 (in press).
-
-### 2024
 
 - **King LM**, Andrejko KL, Kabbani S, Tartof SY, Hicks LA, Cohen AL, Kobayashi M, **Lewnard JA**. Pediatric outpatient visits and antibiotic use due to higher-valency pneumococcal vaccine serotypes. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiae142) 2024. 
 
