@@ -12,11 +12,17 @@ My work has centered on pediatric infectious diseases and vaccines against them,
   - Associate Professor with Tenure, Division of Epidemiology, UC Berkeley School of Public Health, 2023--
   - Assistant Professor, Division of Epidemiology, UC Berkeley School of Public Health, 2018--23
   - Core Member, UC Berkeley/UCSF Augmented Graduate Group in Computational Precision Health, 2022--
-  - Core Member, Center for Computational Biology, UC Berkeley College of Engineering, 2018--
+  - Core Member, Center for Computational Biology, UC Berkeley College of Data Science and Society, 2018--
   - Postdoc, Harvard TH Chan School of Public Health (laboratory of Marc Lipsitch), 2018
   - PhD, Epidemiology of Microbial Diseases, Yale University, 2017
   - BA Hons., Geography and Music, McGill University, 2013
 
+- Benjamin Singer
+  - _Postdoc_
+
+- Matan Yechezkel
+  - _Postdoc_
+    
 - Laura King
   - _Epidemiology PhD student_
 
@@ -32,10 +38,6 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Chungman Chae
   - _Epidemiology PhD student_
 
-- Graham Northrup
-  - _Computational biology PhD student_
-  - Co-supervised with [Mike Boots](https://bootslab.org/)
-
 - Karissa Huang
   - _Statistics PhD student_
   - Co-supervised with Jennifer Chayes
@@ -45,25 +47,16 @@ My work has centered on pediatric infectious diseases and vaccines against them,
   - Co-supervised with Perry deValpine
 
 - Lauren Granskog
-  - _Infectious disease and vaccinology MPH student_
-
-- Kieran Lorenz
-  - _Epidemiology MPH student_
-
-- Jarett Maycott
-  - _Epidemiology MPH student_
- 
-- Justin Nguyen
-  - _Epidemiology MPH student_
+  - _Research staff_
  
 - Noah Parker
-  - _Epidemiology MPH student_
+  - _Research staff_
 
 ### Alumni and most recent placement information
 
 - Kristin Andrejko
   - _Epidemiology PhD (2022)_
-  - Epidemiologist, Division of Bacterial Diseases at CDC
+  - Epidemiologist, Respiratory Disease Branch at CDC
 
 - Sam Holland
   - _MPH student (2023)_
@@ -74,6 +67,22 @@ My work has centered on pediatric infectious diseases and vaccines against them,
   - _Epidemiology & Biostats MPH (2020)_
   - Epidemiologist at CDC
   - PhD student in Epidemiology, Boston University
+
+- Graham Northrup
+  - _Computational biology PhD (2024)_
+  - Co-supervised with [Mike Boots](https://bootslab.org/)
+
+- Kieran Lorenz
+  - _Epidemiology MPH (2024)_
+  - Data analyst at UCSF
+
+- Jarett Maycott
+  - _Epidemiology MPH (2024)_
+  - Research associate at San Francisco Department of Public Health
+ 
+- Justin Nguyen
+  - _Epidemiology MPH (2024)_
+  - Epidemiologist, Respiratory Disease Branch at CDC
 
 - Tess Baker
   - _Epidemiology & Biostats MPH (2022)_
@@ -99,7 +108,17 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
+### In press
+
+- **King LM**, **Lewnard JA**. Health-economic burden attributable to novel serotypes in candidate 24- and 31-valent pneumococcal conjugate vaccines. _Vaccine_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2024.04.11.24305684).
+  
+- **Lewnard JA**, Mahale P, Malden D, Hong V, Ackerson B, Lewin BJ, Link-Gelles R, Feldstein LR, Lipsitch M, Tartof SY. Immune escape and attenuated severity associated with the SARS-CoV-2 BA.2.86/JN.1 lineage. _Nature Communications_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2024.04.17.24305964).
+  
+- Rogawski McQuade ET, Breenhofer SA, Elwood SE, **Lewnard JA**, Liu J, Houpt ER, Platts-Mills JA. The impact of vaccines for diarrhoea on antibiotic use among children in low-resource settings: a comparative simulation study. _Lancet Global Health_ 2024 (in press).
+
 ### 2024
+
+- **Lewnard JA**, Hong V, Grant LR, Ackerson BK, Bruxvoort KJ, Pomichowski M, Arguedas A, Cane A, Jodar L, Gessner BD, Tartof SY. Association of pneumococcal conjugate vaccination with severe acute respiratory syndrome coronavirus 2 infection among older adult recipients of coronavirus disease 2019 vaccines: a longitudinal cohort study. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiae387) 2024.
 
 - **Parker AM**, Jackson N, Awasthi S, Kim H, Alwan T, Wyllie AL, Kogut K, Holland N, Mora AM, Eskenazi B, Riley LW, **Lewnard JA**. Upper respiratory _Streptococcus pneumoniae_ colonization among working-age adults with prevalent exposure to overcrowding. [_Microbiol Spectrum_](https://doi.org/10.1128/spectrum.00879-24) 2024.
 
