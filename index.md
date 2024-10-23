@@ -116,6 +116,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### 2024
 
+- Estimating the impact of vaccines in reducing antimicrobial resistance and antibiotic use: technical report. Geneva: [World Health Organization](https://www.who.int/publications/i/item/9789240098787); 2024.
+
 - **Lewnard JA**, Mahale P, Malden D, Hong V, Ackerson B, Lewin BJ, Link-Gelles R, Feldstein LR, Lipsitch M, Tartof SY. Immune escape and attenuated severity associated with the SARS-CoV-2 BA.2.86/JN.1 lineage. [_Nature Communications_](https://doi.org/10.1038/s41467-024-52668-w) 2024.
 
 - **King LM**, **Lewnard JA**. Health-economic burden attributable to novel serotypes in candidate 24- and 31-valent pneumococcal conjugate vaccines. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2024.126310) 2024.
