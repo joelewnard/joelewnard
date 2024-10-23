@@ -109,14 +109,16 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 ### In press
-
-- **King LM**, **Lewnard JA**. Health-economic burden attributable to novel serotypes in candidate 24- and 31-valent pneumococcal conjugate vaccines. _Vaccine_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2024.04.11.24305684).
   
-- **Lewnard JA**, Mahale P, Malden D, Hong V, Ackerson B, Lewin BJ, Link-Gelles R, Feldstein LR, Lipsitch M, Tartof SY. Immune escape and attenuated severity associated with the SARS-CoV-2 BA.2.86/JN.1 lineage. _Nature Communications_ 2024 (in press). Pre-print from [_medRxiv_](https://doi.org/10.1101/2024.04.17.24305964).
+- Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson B, Liu Q, Shaw S, Welsh S, Stern JA, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Chia B, Jodar L, Gessner BD, Begier E. Abrysvo effectiveness against RSV-related lower respiratory tract disease hospitalizations and emergency department visits. _JAMA Netw Open_ 2024 (in press).
   
 - Rogawski McQuade ET, Breenhofer SA, Elwood SE, **Lewnard JA**, Liu J, Houpt ER, Platts-Mills JA. The impact of vaccines for diarrhoea on antibiotic use among children in low-resource settings: a comparative simulation study. _Lancet Global Health_ 2024 (in press).
 
 ### 2024
+
+- **Lewnard JA**, Mahale P, Malden D, Hong V, Ackerson B, Lewin BJ, Link-Gelles R, Feldstein LR, Lipsitch M, Tartof SY. Immune escape and attenuated severity associated with the SARS-CoV-2 BA.2.86/JN.1 lineage. [_Nature Communications_](https://doi.org/10.1038/s41467-024-52668-w) 2024.
+
+- **King LM**, **Lewnard JA**. Health-economic burden attributable to novel serotypes in candidate 24- and 31-valent pneumococcal conjugate vaccines. [_Vaccine_](https://doi.org/10.1016/j.vaccine.2024.126310) 2024.
 
 - **Lewnard JA**, Hong V, Grant LR, Ackerson BK, Bruxvoort KJ, Pomichowski M, Arguedas A, Cane A, Jodar L, Gessner BD, Tartof SY. Association of pneumococcal conjugate vaccination with severe acute respiratory syndrome coronavirus 2 infection among older adult recipients of coronavirus disease 2019 vaccines: a longitudinal cohort study. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiae387) 2024.
 
