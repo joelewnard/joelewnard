@@ -108,6 +108,10 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. _Lancet Infect Dis_ 2025 (in press).
   
+### 2025
+
+Tan ST, Rodriguez-Barraquer I, Kwan AT, Blumberg S, Park HJ, Hutchinson J, Leidner D, **Lewnard JA**, Sears D, Lo NC. Strength and durability of indirect protection against SARS-CoV-2 infection acquired through vaccine and infection-acquired immunity. [_Nature Communications_](https://doi.org/10.1038/s41467-024-55029-9) 2025.
+
 ### 2024
 
 - Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson B, Liu Q, Shaw S, Welsh S, Stern JA, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Chia B, Jodar L, Gessner BD, Begier E. Estimated effectiveness for respiratory syncytial virus-related lower respiratory tract disease. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2024.50832) 2024.
