@@ -4,7 +4,7 @@ My group studies the natural history, transmission dynamics, and control of infe
 
 In collaboration with Dr. Sara Tartof at Kaiser Permanente Southern California, I co-lead the California Center for Outbreak Response, a Center for Innovation within CDC's [InsightNet](https://www.cdc.gov/forecast-outbreak-analytics/partners/insightnet/index.html) network for outbreak analytics and infectious disease modeling.
 
-My work has centered on pediatric infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), COVID-19, RSV, and group A _Streptococcus_. I am also interested in statistical methods for vaccine efficacy and effectiveness studies. 
+My work has centered on infectious diseases and vaccines against them, in particular pneumococcus (_Streptococcus pneumoniae_), COVID-19, mpox, RSV, and group A _Streptococcus_. I am also interested in statistical methods for vaccine efficacy and effectiveness studies. 
 
 ## People ##
 
@@ -41,10 +41,6 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 - Karissa Huang
   - _Statistics PhD student_
   - Co-supervised with Jennifer Chayes
- 
-- Daniela Rodriguez-Chevez
-  - _Environmental Science, Policy, and Management PhD student_
-  - Co-supervised with Perry deValpine
 
 - Lauren Granskog
   - _Research staff_
@@ -56,7 +52,7 @@ My work has centered on pediatric infectious diseases and vaccines against them,
 
 - Kristin Andrejko
   - _Epidemiology PhD (2022)_
-  - Epidemiologist, Respiratory Disease Branch at CDC
+  - GSK
 
 - Sam Holland
   - _MPH student (2023)_
@@ -109,12 +105,15 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 ### In press
-  
-- Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson B, Liu Q, Shaw S, Welsh S, Stern JA, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Chia B, Jodar L, Gessner BD, Begier E. Abrysvo effectiveness against RSV-related lower respiratory tract disease hospitalizations and emergency department visits. _JAMA Netw Open_ 2024 (in press).
-  
-- Rogawski McQuade ET, Breenhofer SA, Elwood SE, **Lewnard JA**, Liu J, Houpt ER, Platts-Mills JA. The impact of vaccines for diarrhoea on antibiotic use among children in low-resource settings: a comparative simulation study. _Lancet Global Health_ 2024 (in press).
 
+- **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. _Lancet Infect Dis_ 2025 (in press).
+  
 ### 2024
+
+- Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson B, Liu Q, Shaw S, Welsh S, Stern JA, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Chia B, Jodar L, Gessner BD, Begier E. Estimated effectiveness for respiratory syncytial virus-related lower respiratory tract disease. [_JAMA Netw Open_](https://doi.org/10.1001/jamanetworkopen.2024.50832) 2024.
+  
+- Rogawski McQuade ET, Breenhofer SA, Elwood SE, **Lewnard JA**, Liu J, Houpt ER, Platts-Mills JA. The impact of vaccines for diarrhoea on antibiotic use among children in low-resource settings: a comparative simulation study. [_Lancet Global Health_](https://doi.org/10.1016/S2214-109X(24)00378-4) 2024.
+    - Accompanying editorial: Leung K, Wu JT, Marks F. Reducing antibiotic use with diarrheal vaccines. [_Lancet Global Health_](https://doi.org/10.1016/S2214-109X(24)00410-8) 2024.
 
 - Estimating the impact of vaccines in reducing antimicrobial resistance and antibiotic use: technical report. Geneva: [World Health Organization](https://www.who.int/publications/i/item/9789240098787); 2024.
 
