@@ -110,7 +110,7 @@ Work by current and former members is indicated in **bold** text. Work published
   
 ### 2025
 
-Tan ST, Rodriguez-Barraquer I, Kwan AT, Blumberg S, Park HJ, Hutchinson J, Leidner D, **Lewnard JA**, Sears D, Lo NC. Strength and durability of indirect protection against SARS-CoV-2 infection acquired through vaccine and infection-acquired immunity. [_Nature Communications_](https://doi.org/10.1038/s41467-024-55029-9) 2025.
+- Tan ST, Rodriguez-Barraquer I, Kwan AT, Blumberg S, Park HJ, Hutchinson J, Leidner D, **Lewnard JA**, Sears D, Lo NC. Strength and durability of indirect protection against SARS-CoV-2 infection acquired through vaccine and infection-acquired immunity. [_Nature Communications_](https://doi.org/10.1038/s41467-024-55029-9) 2025.
 
 ### 2024
 
