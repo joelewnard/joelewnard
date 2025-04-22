@@ -117,7 +117,7 @@ Work by current and former members is indicated in **bold** text. Work published
   
 ### 2025
 
-- Patrick R, Mahale P, Ackerson BK, Hong V, Shaw S, Kapadia B, Spence B, Feaster M, Slezak J, Stern JA, Davis GS, Goodwin G, Lewin B, **Lewnard JA**, Tseng HF, Tartof SY. Respiratory syncytial virus vaccine uptake among adults aged ≥60 years in a large, integrated healthcare system in Southern California, 2023--2024. [_Vaccine)](https://doi.org/10.1016.j.vaccine.2025.127033) 2025.
+- Patrick R, Mahale P, Ackerson BK, Hong V, Shaw S, Kapadia B, Spence B, Feaster M, Slezak J, Stern JA, Davis GS, Goodwin G, Lewin B, **Lewnard JA**, Tseng HF, Tartof SY. Respiratory syncytial virus vaccine uptake among adults aged ≥60 years in a large, integrated healthcare system in Southern California, 2023--2024. [_Vaccine ](https://doi.org/10.1016.j.vaccine.2025.127033) 2025.
 
 - Tan ST, Rodriguez-Barraquer I, Kwan AT, Blumberg S, Park HJ, Hutchinson J, Leidner D, **Lewnard JA**, Sears D, Lo NC. Strength and durability of indirect protection against SARS-CoV-2 infection acquired through vaccine and infection-acquired immunity. [_Nature Communications_](https://doi.org/10.1038/s41467-024-55029-9) 2025.
 
