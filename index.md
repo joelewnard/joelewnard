@@ -35,6 +35,9 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Chungman Chae
   - _Epidemiology PhD student_
 
+- Ziyuan Zhang
+  - _Epidemiology PhD student_
+
 - Karissa Huang
   - _Statistics PhD student_
   - Co-supervised with Jennifer Chayes
@@ -55,7 +58,6 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Lauren Granskog
   - _MPH (2024)_
   - Medical student, UC San Diego
-
 
 - Sam Holland
   - _MPH (2023)_
