@@ -46,7 +46,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
 
 - Laura King
   - _Epidemiology PhD (2025)_
-  - -GSK
+  - GSK
 
 - Kristin Andrejko
   - _Epidemiology PhD (2022)_
