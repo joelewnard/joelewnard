@@ -72,6 +72,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Graham Northrup
   - _Computational biology PhD (2024)_
   - Co-supervised with [Mike Boots](https://bootslab.org/)
+  - Postdoc in Evolutionary Biology, University of Chicago
 
 - Kieran Lorenz
   - _Epidemiology MPH (2024)_
