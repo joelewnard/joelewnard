@@ -38,9 +38,6 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Karissa Huang
   - _Statistics PhD student_
   - Co-supervised with Jennifer Chayes
-
-- Lauren Granskog
-  - _Research staff_
  
 - Noah Parker
   - _Research staff_
@@ -55,8 +52,13 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - _Epidemiology PhD (2022)_
   - GSK
 
+- Lauren Granskog
+  - _MPH (2024)_
+  - Medical student, UC San Diego
+
+
 - Sam Holland
-  - _MPH student (2023)_
+  - _MPH (2023)_
   - CalEIS Fellow, California Department of Public Health
   - PhD student in Epidemiology, UCLA
  
@@ -109,7 +111,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **King LM** Bruxvoort KJ, Tartof SY, **Lewnard JA**. Pediatric antibiotic use associated with respiratory syncytial virus and influenza in the United States, 2008-2018. _J Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.03.25.25324633).
 
-- **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. _Lancet Infect Dis_ 2025 (in press).
+- **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. _Lancet Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.01.21.25320915).
   
 ### 2025
 
