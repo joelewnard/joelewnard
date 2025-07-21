@@ -112,11 +112,14 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **King LM** Bruxvoort KJ, Tartof SY, **Lewnard JA**. Pediatric antibiotic use associated with respiratory syncytial virus and influenza in the United States, 2008-2018. _J Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.03.25.25324633).
-
-- **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. _Lancet Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.01.21.25320915).
+- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, Self WH, Resser JJ, Whitney CG, Baughman A, Kio M, Grijalva CG, Traenkner J, Rouphael N, **Lewnard JA**. Pneumococcal serotype distribution and coverage of existing and pipeline pneumococcal vaccines. _J Infect Dis_ 2025; in press. Pre-print from [_medRxiv](https://doi.org/10.1101/2024.12.12.24318944).
   
 ### 2025
+
+- **King LM** Bruxvoort KJ, Tartof SY, **Lewnard JA**. Pediatric antibiotic use associated with respiratory syncytial virus and influenza in the United States, 2008-2018. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiaf309) 2025.
+
+- **Granskog LC**, Saadeh K, **Lorenz K**, Quint J, Salih T, Lo T, Jacobson K, Ramos M, Chapman E, Snyder RE, **Lewnard JA**. Effect of JYNNEOS vaccination on mpox clinical progression: a case-control study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(25)00180-X) 2025.
+     - Accompanying editorial: Marks M, Mitja O. Mpox vaccines attenuate disease—but evidence and equity gaps remain. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(25)00282-8) 2025.
 
 - Patrick R, Mahale P, Ackerson BK, Hong V, Shaw S, Kapadia B, Spence B, Feaster M, Slezak J, Stern JA, Davis GS, Goodwin G, Lewin B, **Lewnard JA**, Tseng HF, Tartof SY. Respiratory syncytial virus vaccine uptake among adults aged ≥60 years in a large, integrated healthcare system in Southern California, 2023--2024. [_Vaccine ](https://doi.org/10.1016.j.vaccine.2025.127033) 2025.
 
