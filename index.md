@@ -112,7 +112,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, Self WH, Resser JJ, Whitney CG, Baughman A, Kio M, Grijalva CG, Traenkner J, Rouphael N, **Lewnard JA**. Pneumococcal serotype distribution and coverage of existing and pipeline pneumococcal vaccines. _J Infect Dis_ 2025; in press. Pre-print from [_medRxiv](https://doi.org/10.1101/2024.12.12.24318944).
+- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, Self WH, Resser JJ, Whitney CG, Baughman A, Kio M, Grijalva CG, Traenkner J, Rouphael N, **Lewnard JA**. Pneumococcal serotype distribution and coverage of existing and pipeline pneumococcal vaccines. _J Infect Dis_ 2025; in press. Pre-print from [_medRxiv_](https://doi.org/10.1101/2024.12.12.24318944).
   
 ### 2025
 
