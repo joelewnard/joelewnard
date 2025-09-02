@@ -109,7 +109,11 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 ## Publications
 
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
-  
+
+### In press
+
+- **Parker AM**, Chang JJ, Chen L, **King LM**, McCoy SI, **Lewnard JA**, **Bruxvoort KJ**. Bacterial sexually transmitted infections and related antibiotic use among individuals eligible for doxycycline post-exposure prophylaxis in the United States. _Nature Communications_ (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.02.24.25322788).
+
 ### 2025
 
 - **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, Self WH, Resser JJ, Whitney CG, Baughman A, Kio M, Grijalva CG, Traenkner J, Rouphael N, **Lewnard JA**. Pneumococcal serotype distribution and coverage of existing and pipeline pneumococcal vaccines. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiaf376) 2025.
