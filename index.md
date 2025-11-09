@@ -112,14 +112,17 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Lewnard JA**, Malden DE, Hong V, Skela J, Feldstein LR, Saydah S, Reyes IAC, Hechter R, Sy LS, Ackerson BK, Tartof SY. Comparative risk of post-acute sequelae among adults following SARS-CoV-2 or influenza virus infection: a retrospective cohort study among United States adults. _PLoS Med_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.05.30.25328674).
-
-
-- **Parker AM**, Chang JJ, Chen L, **King LM**, McCoy SI, **Lewnard JA***, Bruxvoort KJ*. Bacterial sexually transmitted infections and related antibiotic use among individuals eligible for doxycycline post-exposure prophylaxis in the United States. _Nature Communications_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.02.24.25322788). (*_denotes equal contributions_)
-
-- Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson BK, Liu Q, Shaw SF, Welsh S, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Jodar L, Gessner BD, Begier E. Estimated vaccine effectiveness for respiratory syncytial virus–related acute respiratory illness in older adults: findings from the first post-licensure season. _Clin Infect Dis_ 2025 (in press).
+- **Parker NT**, Hong V, Davis GS, Pomichowski M, Reyes IAC, Xie F, Mueller NF, Rodriguez-Barraquer I, Tartof SY*,
+**Lewnard JA***. Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial
+virus infections in a large US integrated healthcare population. _PLoS Comp Biol_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.05.28.25328531). (*_denotes equal contributions_)
 
 ### 2025
+
+- **Lewnard JA**, Malden DE, Hong V, Skela J, Feldstein LR, Saydah S, Reyes IAC, Hechter R, Sy LS, Ackerson BK, Tartof SY. Comparative risk of post-acute sequelae following SARS-CoV-2 or influenza virus infection: a retrospective cohort study among United States adults. [_PLoS Med_](https://doi.org/10.1371/journal.pmed.1004777) 2025.
+
+- **Parker AM**, Chang JJ, Chen L, **King LM**, McCoy SI, **Lewnard JA***, Bruxvoort KJ*. Bacterial sexually transmitted infections and related antibiotic use among individuals eligible for doxycycline post-exposure prophylaxis in the United States. [_Nature Communications_](https://doi.org/10.1038/s41467-025-64261-w) 2025. (*_denotes equal contributions_)
+
+- Tartof SY, Aliabadi N, Goodwin G, Slezak J, Hong V, Ackerson BK, Liu Q, Shaw SF, Welsh S, Kapadia B, Spence BC, **Lewnard JA**, Davis GS, Aragones M, Dutro M, Chilson E, Gonzalez E, Hubler R, Jodar L, Gessner BD, Begier E. Estimated vaccine effectiveness for respiratory syncytial virus–related acute respiratory illness in older adults: findings from the first post-licensure season. [_Clin Infect Dis_](https://doi.org/10.1093/cid/ciaf496) 2025.
 
 - **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, Self WH, Resser JJ, Whitney CG, Baughman A, Kio M, Grijalva CG, Traenkner J, Rouphael N, **Lewnard JA**. Pneumococcal serotype distribution and coverage of existing and pipeline pneumococcal vaccines. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiaf376) 2025.
 
