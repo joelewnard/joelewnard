@@ -112,13 +112,14 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Parker NT**, Hong V, Davis GS, Pomichowski M, Reyes IAC, Xie F, Mueller NF, Rodriguez-Barraquer I, Tartof SY\*,
-**Lewnard JA\***. Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial
-virus infections in a large US integrated healthcare population. _PLoS Comp Biol_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.05.28.25328531). (\*_denotes equal contributions_)
+- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, **Lewnard JA**. Acute respiratory infections due to antibiotic-nonsusceptible _Streptococcus pneumoniae_ in United States adults. _Open Forum Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.04.04.25325277).
 
 - Daniel BC, Endy T, **Lewnard JA**, di Fabio JL, Cortes-Azuero O, Breugelemans G, Cauchemez S, Precioso A, Ko AI, Chandler RE, Thomas SJ, Lurie N, Salje H. Characterising the benefits and risks of vaccines approved through accelerated pathways. _Nature Health_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.05.31.25328649).
 
 ### 2025
+
+- **Parker NT**, Hong V, Davis GS, Pomichowski M, Reyes IAC, Xie F, Mueller NF, Rodriguez-Barraquer I, Tartof SY\*,
+**Lewnard JA\***. Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial virus infections in a large US integrated healthcare population. [_PLoS Comp Biol_](https://doi.org/10.1371/journal.pcbi.1013723) 2025. (\*_denotes equal contributions_)
 
 - **Lewnard JA**, Malden DE, Hong V, Skela J, Feldstein LR, Saydah S, Reyes IAC, Hechter R, Sy LS, Ackerson BK, Tartof SY. Comparative risk of post-acute sequelae following SARS-CoV-2 or influenza virus infection: a retrospective cohort study among United States adults. [_PLoS Med_](https://doi.org/10.1371/journal.pmed.1004777) 2025.
 
