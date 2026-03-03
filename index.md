@@ -118,9 +118,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, **Lewnard JA**. Acute respiratory infections due to antibiotic-nonsusceptible _Streptococcus pneumoniae_ in United States adults. [_Open Forum Infect Dis_](https://doi.org/10.1093/ofid/ofaf774) 2026.
 
-- Daniel BC, Endy T, **Lewnard JA**, di Fabio JL, Cortes-Azuero O, Breugelemans G, Cauchemez S, Precioso A, Ko AI, Chandler RE, Thomas SJ, Lurie N, Salje H. A framework for risk–benefit analysis of vaccines approved through accelerated pathways. [_Nature Health_](https://doi.org/10.1038/s44360-025-00027-4
-
-) 2026.
+- Daniel BC, Endy T, **Lewnard JA**, di Fabio JL, Cortes-Azuero O, Breugelemans G, Cauchemez S, Precioso A, Ko AI, Chandler RE, Thomas SJ, Lurie N, Salje H. A framework for risk–benefit analysis of vaccines approved through accelerated pathways. [_Nature Health_](https://doi.org/10.1038/s44360-025-00027-4) 2026.
 
 - Gianella S, Lauring AS, Paredes R, Croda J, Andes D, Uhlemann A-C, Chew KW, Stephenson KE, **Lewnard JA**, Odom AR, Leung DT, Clancy CJ, Chu HY, Sears CL, Li JZ. Implementation does not occur in a vacuum: sustaining a comprehensive and global vision for HIV research. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiag063) 2026.
 
