@@ -112,9 +112,17 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, **Lewnard JA**. Acute respiratory infections due to antibiotic-nonsusceptible _Streptococcus pneumoniae_ in United States adults. _Open Forum Infect Dis_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.04.04.25325277).
+- **Yechezkel M**, Helekal D, Kapadia B, Hong V, Pomichowski ME, Reyes IAC, Davis GS, Müller NF, Grad YH, Tartof SY\*, **Lewnard JA\***. Durability of doxycycline effectiveness against gonorrhea after implementation of post-exposure prophylaxis in southern California: a retrospective observational study. _Lancet Infect Dis_ 2026 (in press).
 
-- Daniel BC, Endy T, **Lewnard JA**, di Fabio JL, Cortes-Azuero O, Breugelemans G, Cauchemez S, Precioso A, Ko AI, Chandler RE, Thomas SJ, Lurie N, Salje H. Characterising the benefits and risks of vaccines approved through accelerated pathways. _Nature Health_ 2025 (in press); pre-print from [_medRxiv_](https://doi.org/10.1101/2025.05.31.25328649).
+### 2026
+
+- **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, **Lewnard JA**. Acute respiratory infections due to antibiotic-nonsusceptible _Streptococcus pneumoniae_ in United States adults. [_Open Forum Infect Dis_](https://doi.org/10.1093/ofid/ofaf774) 2026.
+
+- Daniel BC, Endy T, **Lewnard JA**, di Fabio JL, Cortes-Azuero O, Breugelemans G, Cauchemez S, Precioso A, Ko AI, Chandler RE, Thomas SJ, Lurie N, Salje H. A framework for risk–benefit analysis of vaccines approved through accelerated pathways. [_Nature Health_](https://doi.org/10.1038/s44360-025-00027-4
+
+) 2026.
+
+- Gianella S, Lauring AS, Paredes R, Croda J, Andes D, Uhlemann A-C, Chew KW, Stephenson KE, **Lewnard JA**, Odom AR, Leung DT, Clancy CJ, Chu HY, Sears CL, Li JZ. Implementation does not occur in a vacuum: sustaining a comprehensive and global vision for HIV research. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiag063) 2026.
 
 ### 2025
 
