@@ -112,6 +112,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- **Lewnard JA**, Paredes MI, Yechezkel M, Davis GS, Hong V, Skela J, Pandey U, **Parker NT**, **Granskog LC**, Pomichowski ME, Reyes AIC, Rodriguez Barraquer I, Mueller NF, Tartof SY. Extensive cryptic circulation sustains mpox among men who have sex with men. _Nat Communications_ 2026 (in press).
+
 - **Yechezkel M**, Helekal D, Kapadia B, Hong V, Pomichowski ME, Reyes IAC, Davis GS, Müller NF, Grad YH, Tartof SY\*, **Lewnard JA\***. Durability of doxycycline effectiveness against gonorrhea after implementation of post-exposure prophylaxis in southern California: a retrospective observational study. _Lancet Infect Dis_ 2026 (in press).
 
 ### 2026
