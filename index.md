@@ -23,9 +23,6 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Matan Yechezkel
   - _Postdoc_
 
-- Anna Parker
-  - _Epidemiology PhD student_
-
 - Nancy Li
   - _Epidemiology PhD student_
 
@@ -46,6 +43,10 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - _Research staff_
 
 ### Alumni and most recent placement information
+
+- Anna Parker
+  - _Epidemiology PhD (2025)_
+  - CDC (EIS fellow)
 
 - Laura King
   - _Epidemiology PhD (2025)_
