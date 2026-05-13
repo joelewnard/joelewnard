@@ -113,11 +113,13 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Lewnard JA**, Paredes MI, Yechezkel M, Davis GS, Hong V, Skela J, Pandey U, **Parker NT**, **Granskog LC**, Pomichowski ME, Reyes AIC, Rodriguez Barraquer I, Mueller NF, Tartof SY. Extensive cryptic circulation sustains mpox among men who have sex with men. _Nature Communications_ 2026 (in press).
-
-- **Yechezkel M**, Helekal D, Kapadia B, Hong V, Pomichowski ME, Reyes IAC, Davis GS, Müller NF, Grad YH, Tartof SY\*, **Lewnard JA\***. Durability of doxycycline effectiveness against gonorrhea after implementation of post-exposure prophylaxis in southern California: a retrospective observational study. _Lancet Infect Dis_ 2026 (in press).
+- Cook A, Cooper B, Thorn M, Nguyen N, Lim C, Swe MMM, Allel K, Robles Aguilar G, Moore CE, **Lewnard JA**, Cohn J, Mendelson M, Laxminarayan R, Srikantiah P, Pouwels KB, Sharland M. _Lancet Public Health_ 2026 (in press).
 
 ### 2026
+
+- **Lewnard JA**, Paredes MI, Yechezkel M, Davis GS, Hong V, Skela J, Pandey U, **Parker NT**, **Granskog LC**, Pomichowski ME, Reyes AIC, Rodriguez Barraquer I, Mueller NF, Tartof SY. Extensive cryptic circulation sustains mpox among men who have sex with men. [_Nature Communications_](https://doi.org/10.1038/s41467-026-72749-2) 2026.
+
+- **Yechezkel M**, Helekal D, Kapadia B, Hong V, Pomichowski ME, Reyes IAC, Davis GS, Müller NF, Grad YH, Tartof SY\*, **Lewnard JA\***. Durability of doxycycline effectiveness against gonorrhea after implementation of post-exposure prophylaxis in southern California: a retrospective observational study. [_Lancet Infect Dis_](https://doi.org/10.1016/S1473-3099(26)00123-4) 2026.
 
 - **King LM**, Andrejko KL, Kobayashi M, Xing W, Cohen AL, **Lewnard JA**. Acute respiratory infections due to antibiotic-nonsusceptible _Streptococcus pneumoniae_ in United States adults. [_Open Forum Infect Dis_](https://doi.org/10.1093/ofid/ofaf774) 2026.
 
