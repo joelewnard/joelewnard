@@ -127,6 +127,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 - Gianella S, Lauring AS, Paredes R, Croda J, Andes D, Uhlemann A-C, Chew KW, Stephenson KE, **Lewnard JA**, Odom AR, Leung DT, Clancy CJ, Chu HY, Sears CL, Li JZ. Implementation does not occur in a vacuum: sustaining a comprehensive and global vision for HIV research. [_J Infect Dis_](https://doi.org/10.1093/infdis/jiag063) 2026.
 
+- Tartof SY, Aliabadi N, Zasowski, E, Goodwin G, Slezak JM, Hong V, Frankland TB, Ackerson B, Liu Q, Shaw S, Welsh S, Kapadia B, Spence BC, Davis GS, **Lewnard JA**, Chowdhry H, Dutro M, Chilson E, Jodar L, Gessner BD, Begier E. Bivalent RSVpreF effectiveness against RSV-associated hospital or emergency department care over two seasons: a retrospective test-negative case control study. [_Lancet Reg Health Americas_](https://doi.org/10.1016/j.lana.2026.101520) 2026.
+
 ### 2025
 
 - **Parker NT**, Hong V, Davis GS, Pomichowski M, Reyes IAC, Xie F, Mueller NF, Rodriguez-Barraquer I, Tartof SY\*,
