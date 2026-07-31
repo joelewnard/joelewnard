@@ -113,9 +113,12 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- Cook A, Cooper B, Thorn M, Nguyen N, Lim C, Swe MMM, Allel K, Robles Aguilar G, Moore CE, **Lewnard JA**, Cohn J, Mendelson M, Laxminarayan R, Srikantiah P, Pouwels KB, Sharland M. _Lancet Public Health_ 2026 (in press).
+- **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ*, **Lewnard JA***. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
 
 ### 2026
+
+- Cook A, Cooper B, Thorn M, Nguyen N, Lim C, Swe MMM, Allel K, Robles Aguilar G, Moore CE, **Lewnard JA**, Cohn J, Mendelson M, Laxminarayan R, Srikantiah P, Pouwels KB, Sharland M. Estimating optimal levels of WHO Access, Watch, Reserve (AWaRe) antibiotic use in 186 countries, territories, and areas on the basis of clinical infection and resistance burden. [_Lancet Public Health_](https://doi.org/10.1016/S2468-2667(26)00103-9) 2026.
+     - Accompanying editorial: van der Sande MAB, Valia D. Being AWaRe: benchmarking antibiotic use. [_Lancet Public Health_](https://doi.org/10.1016/S2468-2667(26)00146-5) 2026.
 
 - **Lewnard JA**, Paredes MI, Yechezkel M, Davis GS, Hong V, Skela J, Pandey U, **Parker NT**, **Granskog LC**, Pomichowski ME, Reyes AIC, Rodriguez Barraquer I, Mueller NF, Tartof SY. Extensive cryptic circulation sustains mpox among men who have sex with men. [_Nature Communications_](https://doi.org/10.1038/s41467-026-72749-2) 2026.
 
