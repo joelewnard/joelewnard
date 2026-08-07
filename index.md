@@ -117,6 +117,9 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### 2026
 
+- Liang C, Chilson EL, Wu J, Kelly SP, Liu Q, Dooling KL, Lino MM, Lewnard JA, Gessner BD, Begeir E. Can
+we compare adverse events’ attributable risk using a self-controlled case series design for vaccine safety? A Guillain-Barré syndrome use case. [_Infect Dis Ther_](https://doi.org/10.1007/s40121-026-01365-w) 2026.
+
 - Cook A, Cooper B, Thorn M, Nguyen N, Lim C, Swe MMM, Allel K, Robles Aguilar G, Moore CE, **Lewnard JA**, Cohn J, Mendelson M, Laxminarayan R, Srikantiah P, Pouwels KB, Sharland M. Estimating optimal levels of WHO Access, Watch, Reserve (AWaRe) antibiotic use in 186 countries, territories, and areas on the basis of clinical infection and resistance burden. [_Lancet Public Health_](https://doi.org/10.1016/S2468-2667(26)00103-9) 2026.
      - Accompanying editorial: van der Sande MAB, Valia D. Being AWaRe: benchmarking antibiotic use. [_Lancet Public Health_](https://doi.org/10.1016/S2468-2667(26)00146-5) 2026.
 
