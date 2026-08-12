@@ -113,6 +113,12 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- Ackerson BK, Chia B, Aliabadi N, Goodwin G, Slezak J, Hong V, Liu Q, Shaw SF, Welsh S, Stern JA, Kapadia
+B, Spence BC, **Lewnard JA**, Daviss GS, Zasowski EJ, Aragones M, Miller A, Dutro M, Chilson EL, Gonzalez E,
+Hubler R, Jodar L, Gessner BD, Begier E, Tartof SY. The impact of respiratory syncytial virus undertesting on
+estimates of disease burden and vaccine effectiveness in a large integrated healthcare system. _Open Forum Infect
+Dis_ 2026 (in press).
+
 - **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ*, **Lewnard JA***. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
 
 ### 2026
