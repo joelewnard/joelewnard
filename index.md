@@ -119,7 +119,7 @@ Hubler R, Jodar L, Gessner BD, Begier E, Tartof SY. The impact of respiratory sy
 estimates of disease burden and vaccine effectiveness in a large integrated healthcare system. _Open Forum Infect
 Dis_ 2026 (in press).
 
-- **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ*, **Lewnard JA***. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
+- **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
 
 ### 2026
 
