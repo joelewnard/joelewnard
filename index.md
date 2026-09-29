@@ -119,7 +119,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
--**Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
+- **Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
 
 - **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
 
