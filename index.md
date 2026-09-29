@@ -31,10 +31,6 @@ My work has centered on infectious diseases and vaccines against them, in partic
 
 - Ziyuan Zhang
   - _Epidemiology PhD student_
-
-- Karissa Huang
-  - _Statistics PhD student_
-  - Co-supervised with Jennifer Chayes
  
 - Noah Parker
   - _Research staff_
@@ -44,6 +40,11 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Benjamin Singer
   - _Postdoc (2024--26)_
   - Imperial College, London (Research Fellow)
+
+- Karissa Huang
+  - _Statistics PhD (2026)_
+  - Co-supervised with Jennifer Chayes
+  - Postdoc in Statistics, Yale University
 
 - Anna Parker
   - _Epidemiology PhD (2025)_
@@ -57,6 +58,11 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - _Epidemiology PhD (2022)_
   - GSK
 
+- Graham Northrup
+  - _Computational biology PhD (2024)_
+  - Co-supervised with [Mike Boots](https://bootslab.org/)
+  - Postdoc in Evolutionary Biology, University of Chicago
+
 - Lauren Granskog
   - _MPH (2024)_
   - Medical student, UC San Diego
@@ -67,14 +73,13 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - PhD student in Epidemiology, UCLA
  
 - Lauren Linde
-  - _Epidemiology & Biostats MPH (2020)_
+  - _Epidemiology MPH (2020)_
   - Epidemiologist at CDC
   - PhD student in Epidemiology, Boston University
 
-- Graham Northrup
-  - _Computational biology PhD (2024)_
-  - Co-supervised with [Mike Boots](https://bootslab.org/)
-  - Postdoc in Evolutionary Biology, University of Chicago
+- Karissa Huang
+  - _Statistics PhD (2026)_
+  - Co-supervised with Jennifer Chayes
 
 - Kieran Lorenz
   - _Epidemiology MPH (2024)_
@@ -89,11 +94,11 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - Epidemiologist, Respiratory Disease Branch at CDC
 
 - Tess Baker
-  - _Epidemiology & Biostats MPH (2022)_
+  - _Epidemiology MPH (2022)_
   - Research Analyst at Kaiser Permanente
 
 - Nick Murdock
-  - _Epidemiology & Biostats MPH (2021)_
+  - _Epidemiology MPH (2021)_
   - Research Associate at [The HIV Forum](https://forumresearch.org/hiv-forum/hiv-overview)
 
 - Tyler Chervo
