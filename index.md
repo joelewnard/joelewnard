@@ -17,9 +17,6 @@ My work has centered on infectious diseases and vaccines against them, in partic
   - PhD, Epidemiology of Microbial Diseases, Yale University, 2017
   - BA Hons., Geography and Music, McGill University, 2013
 
-- Benjamin Singer
-  - _Postdoc_
-
 - Matan Yechezkel
   - _Postdoc_
 
@@ -44,9 +41,13 @@ My work has centered on infectious diseases and vaccines against them, in partic
 
 ### Alumni and most recent placement information
 
+- Benjamin Singer
+  - _Postdoc (2024--26)_
+  - Imperial College, London (Research Fellow)
+
 - Anna Parker
   - _Epidemiology PhD (2025)_
-  - CDC (EIS fellow)
+  - CDC (EIS Fellow)
 
 - Laura King
   - _Epidemiology PhD (2025)_
@@ -112,6 +113,8 @@ Multiple funded positions are available for PhD students and postdocs. Please co
 Work by current and former members is indicated in **bold** text. Work published since July, 2018 is lab output. For more details, see PI [Google Scholar](https://scholar.google.com/citations?user=-G_851kAAAAJ&hl=en).
 
 ### In press
+
+-**Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
 
 - **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
 
