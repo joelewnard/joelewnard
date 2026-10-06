@@ -75,7 +75,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
 - Lauren Linde
   - _Epidemiology MPH (2020)_
   - Epidemiologist at CDC
-  - PhD student in Epidemiology, Boston University
+  - PhD student in Epidemiology at Boston University
 
 - Karissa Huang
   - _Statistics PhD (2026)_
@@ -83,7 +83,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
 
 - Kieran Lorenz
   - _Epidemiology MPH (2024)_
-  - Data analyst at UCSF
+  - Epidemiologist at California Department of Public Health
 
 - Jarett Maycott
   - _Epidemiology MPH (2024)_
@@ -91,7 +91,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
  
 - Justin Nguyen
   - _Epidemiology MPH (2024)_
-  - Epidemiologist, Respiratory Disease Branch at CDC
+  - Epidemiologist at CDC
 
 - Tess Baker
   - _Epidemiology MPH (2022)_
@@ -107,7 +107,7 @@ My work has centered on infectious diseases and vaccines against them, in partic
 
 - Buddhika Ratnasiri
   - _Undergraduate Honors student (2020)_ 
-  - Clinical Research Coordinator at UCSF
+  - Medical student at Drexel University College of Medicine
 
 ## Recruitment ##
 
@@ -119,11 +119,13 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
+- Saadeh K, Tang EC, Johnson K, **Holland S**, Burghard N, Fernando R, Gonzalez Barrera K, Hernandez C, **Granskog LC**, **Lorenz K**, **Maycott J**, **McGinley J**, Ramos M, Lo T, Chojolan E, Keinde A, Jacobson K, Snyder RE\*, **Lewnard JA**\*. Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations. _Am J Epidemiol_ 2026 (in press).
+
 - **Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
 
-- **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. _Epidemiology_ 2026 (in press); pre-print from [_medRxiv_](https://doi.org/10.64898/2025.12.19.25342713).
-
 ### 2026
+
+- **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000002052) 2026.
 
 - Tartof SY, Zasowski EJ, Aliabadi N, Goodwin G, Slezak J, Hong V, Frankland TB, Ackerson BK, Liu Q, Shaw SF, Welsh S, Kapadia B, Spence BC, Davis GS, **Lewnard JA**, Chowdhry H, Dutro M, Chilson E, Cane A, Hayford K, Begier E. Bivalent RSVpreF effectiveness against respiratory syncytial virus (RSV)-related respiratory disease hospitalization and emergency department visits across three RSV seasons. [_Infect Dis Ther_](https://doi.org/10.1007/s40121-026-01438-w) 2026.
 
