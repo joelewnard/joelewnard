@@ -125,6 +125,8 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### 2026
 
+- Wood TE, Dionne JA, Chen L, **Lewnard JA**, Bruxvoort KJ. Syphilis screening among commercially-insured pregnant women in the United States. [_Sex Transm Dis_](https://doi.org/10.1097/OLQ.0000000000002420) 2026.
+
 - **Parker AM**, Jenness SM, **Singer BJ**, Chang JJ, Bruxvoort KJ\*, **Lewnard JA**\*. Enhanced screening and bacterial sexually-transmitted infection diagnoses after HIV pre-exposure prophylaxis initiation. [_Epidemiology_](https://doi.org/10.1097/EDE.0000000000002052) 2026.
 
 - Tartof SY, Zasowski EJ, Aliabadi N, Goodwin G, Slezak J, Hong V, Frankland TB, Ackerson BK, Liu Q, Shaw SF, Welsh S, Kapadia B, Spence BC, Davis GS, **Lewnard JA**, Chowdhry H, Dutro M, Chilson E, Cane A, Hayford K, Begier E. Bivalent RSVpreF effectiveness against respiratory syncytial virus (RSV)-related respiratory disease hospitalization and emergency department visits across three RSV seasons. [_Infect Dis Ther_](https://doi.org/10.1007/s40121-026-01438-w) 2026.
