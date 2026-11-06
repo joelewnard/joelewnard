@@ -119,11 +119,11 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- Saadeh K, Tang EC, Johnson K, **Holland S**, Burghard N, Fernando R, Gonzalez Barrera K, Hernandez C, **Granskog LC**, **Lorenz K**, **Maycott J**, **McGinley J**, Ramos M, Lo T, Chojolan E, Keinde A, Jacobson K, Snyder RE\*, **Lewnard JA**\*. Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations. _Am J Epidemiol_ 2026 (in press).
-
 - **Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
 
 ### 2026
+
+- Saadeh K, Tang EC, Johnson K, **Holland S**, Burghard N, Fernando R, Gonzalez Barrera K, Hernandez C, **Granskog LC**, **Lorenz K**, **Maycott J**, **McGinley J**, Ramos M, Lo T, Chojolan E, Keinde A, Jacobson K, Snyder RE\*, **Lewnard JA**\*. Prevention of mpox by JYNNEOS vaccination: a case-control study comparing test-negative and alternative-disease control populations. [_Am J Epidemiol_](https://doi.org/10.1093/aje/kwag257) 2026 (in press).
 
 - **Singer BJ**, Gleason A, Impalli I, **Nagorsen MD**, **Chae C**, **Granskog LC**, **Lee PC**, Laxminarayan R, **Lewnard JA**. Burden of bacterial antimicrobial resistance associated with modifiable human antibiotic consumption: an observational study. [_PLoS Med_](https://doi.org/10.1371/journal.pmed.1005140) 2026.
 
