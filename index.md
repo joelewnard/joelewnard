@@ -120,7 +120,7 @@ Work by current and former members is indicated in **bold** text. Work published
 
 ### In press
 
-- **Zhang Z**, Pak KJ, King LM, Yechezkel M, Ackerson BK, Tartof SY\*, **Lewnard JA\***. Respiratory syncytial virus immunization and early-life antibiotic dispenses in southern California, USA: a longitudinal birth-cohort study. _Lancet Infect Dis_ 2026 (in press).
+- **Zhang Z**, Pak KJ, **King LM**, **Yechezkel M**, Ackerson BK, Tartof SY\*, **Lewnard JA\***. Respiratory syncytial virus immunization and early-life antibiotic dispenses in southern California, USA: a longitudinal birth-cohort study. _Lancet Infect Dis_ 2026 (in press).
 
 - **Chae C**, **Lee PC**, Impalli I, **Singer BJ**, Mendelson M, Laxminarayan R, **Lewnard JA**. Widening gaps in antibiotic access among children in low- and middle-income countries. _Nature Health_ 2026 (in press).
 
